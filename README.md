@@ -1,5 +1,5 @@
 # antennaanalyzer
-# Currently I am preparing to release source code. 
+# Currently I am preparing to release source code. Please wait some days.
 EU1KY Antenna Analyzer Firmware CEC Version
 
 This is in preparation for source distribution.
