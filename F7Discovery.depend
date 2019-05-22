@@ -1,0 +1,6347 @@
+# depslib dependency file v1.0
+1515515612 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\adc\stm32_ub_adc3_single.c
+	"stm32_ub_adc3_single.h"
+
+1472142942 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\adc\stm32_ub_adc3_single.h
+	"stm32_ub_system.h"
+
+1437992568 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\adc\stm32_ub_system.h
+	"stm32f7xx.h"
+	"stm32f7xx_hal.h"
+
+1532598522 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\device\st\stm32f7xx\include\stm32f7xx.h
+	"stm32f756xx.h"
+	"stm32f746xx.h"
+	"stm32f745xx.h"
+	"stm32f765xx.h"
+	"stm32f767xx.h"
+	"stm32f769xx.h"
+	"stm32f777xx.h"
+	"stm32f779xx.h"
+	"stm32f7xx_hal_conf.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\device\st\stm32f7xx\include\stm32f746xx.h
+	"core_cm7.h"
+	"system_stm32f7xx.h"
+	<stdint.h>
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\include\core_cm7.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+	"core_cmSimd.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\include\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\include\cmsis_gcc.h
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\include\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\include\core_cmsimd.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\device\st\stm32f7xx\include\system_stm32f7xx.h
+
+1532274031 d:\embitz_work\aa\dh1afk\src_dist\src\inc\stm32f7xx_hal_conf.h
+	<stdint.h>
+	"system_stm32f7xx.h"
+	"stm32f7xx_hal_rcc.h"
+	"stm32f7xx_hal_gpio.h"
+	"stm32f7xx_hal_dma.h"
+	"stm32f7xx_hal_cortex.h"
+	"stm32f7xx_hal_adc.h"
+	"stm32f7xx_hal_can.h"
+	"stm32f7xx_hal_cec.h"
+	"stm32f7xx_hal_crc.h"
+	"stm32f7xx_hal_cryp.h"
+	"stm32f7xx_hal_dma2d.h"
+	"stm32f7xx_hal_dac.h"
+	"stm32f7xx_hal_dcmi.h"
+	"stm32f7xx_hal_eth.h"
+	"stm32f7xx_hal_flash.h"
+	"stm32f7xx_hal_sram.h"
+	"stm32f7xx_hal_nor.h"
+	"stm32f7xx_hal_nand.h"
+	"stm32f7xx_hal_sdram.h"
+	"stm32f7xx_hal_hash.h"
+	"stm32f7xx_hal_i2c.h"
+	"stm32f7xx_hal_i2s.h"
+	"stm32f7xx_hal_iwdg.h"
+	"stm32f7xx_hal_lptim.h"
+	"stm32f7xx_hal_ltdc.h"
+	"stm32f7xx_hal_pwr.h"
+	"stm32f7xx_hal_qspi.h"
+	"stm32f7xx_hal_rng.h"
+	"stm32f7xx_hal_rtc.h"
+	"stm32f7xx_hal_sai.h"
+	"stm32f7xx_hal_sd.h"
+	"stm32f7xx_hal_spdifrx.h"
+	"stm32f7xx_hal_spi.h"
+	"stm32f7xx_hal_tim.h"
+	"stm32f7xx_hal_uart.h"
+	"stm32f7xx_hal_usart.h"
+	"stm32f7xx_hal_irda.h"
+	"stm32f7xx_hal_smartcard.h"
+	"stm32f7xx_hal_wwdg.h"
+	"stm32f7xx_hal_pcd.h"
+	"stm32f7xx_hal_hcd.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rcc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_rcc_ex.h"
+	"stm32f7xx_hal_rcc_ex.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_def.h
+	"stm32f7xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stdio.h>
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rcc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_gpio.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_gpio_ex.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_gpio_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dma_ex.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cortex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_adc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_adc_ex.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_adc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_can.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cec.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_crc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_crc_ex.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_crc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cryp.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_cryp_ex.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cryp_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma2d.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dac.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dac_ex.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dac_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dcmi.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_eth.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_flash.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_flash_ex.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_flash_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sram.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_fmc.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_nor.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_nand.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sdram.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hash.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_hash_ex.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hash_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2c.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_i2c_ex.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2c_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2s.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_iwdg.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_lptim.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_ltdc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_ltdc_ex.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_ltdc_ex.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dsi.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dsi.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pwr.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_pwr_ex.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pwr_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_qspi.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rng.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rtc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_rtc_ex.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rtc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sai.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sd.h
+	"stm32f7xx_ll_sdmmc.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_sdmmc.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_spdifrx.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_spi.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_tim.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_tim_ex.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_tim_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_uart.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_uart_ex.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_uart_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_usart.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_usart_ex.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_usart_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_irda.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_irda_ex.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_irda_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_smartcard.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_smartcard_ex.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_smartcard_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_wwdg.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pcd.h
+	"stm32f7xx_ll_usb.h"
+	"stm32f7xx_hal_pcd_ex.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_usb.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pcd_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hcd.h
+	"stm32f7xx_ll_usb.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal.h
+	"stm32f7xx_hal_conf.h"
+
+1515592112 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\adc\stm32_ub_system.c
+	"stm32_ub_system.h"
+
+1539881370 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\config\config.c
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"gen.h"
+	<string.h>
+	<stdint.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"textbox.h"
+
+1538481039 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\config\config.h
+	<stdint.h>
+	<stdbool.h>
+	"LCD.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\common\lcd.h
+	<stdint.h>
+
+1515437690 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\ff.h
+	"integer.h"
+	"ffconf.h"
+
+1515437690 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\integer.h
+	<stdint.h>
+
+1537815692 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\ffconf.h
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery_sd.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_sd.h
+	"stm32746g_discovery.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery.h
+	"stm32f7xx_hal.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\inc\crash.h
+	<stdio.h>
+
+1525353552 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\gen.h
+	<stdint.h>
+
+1537113247 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\touch.h
+	"LCD.h"
+	"FreqCounter.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\lcd.h
+	<stdint.h>
+
+1537638509 d:\embitz_work\aa\dh1afk\src_dist\src\inc\freqcounter.h
+
+1516525580 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\font.h
+	<stdint.h>
+	"LCD.h"
+
+1520530170 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\textbox.h
+	<stdint.h>
+	"font.h"
+
+1538379080 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\dsp\dsp.c
+	<string.h>
+	<math.h>
+	<limits.h>
+	<complex.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_audio.h"
+	"arm_math.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"config.h"
+	"crash.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_audio.h
+	"../Components/wm8994/wm8994.h"
+	"stm32746g_discovery.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\wm8994\wm8994.h
+	"../Common/audio.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\common\audio.h
+	<stdint.h>
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\include\arm_math.h
+	"core_cm7.h"
+	"core_cm4.h"
+	"core_cm3.h"
+	"core_cm0.h"
+	"core_cm0plus.h"
+	"string.h"
+	"math.h"
+
+1538379080 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\dsp\dsp.h
+	<stdint.h>
+	<complex.h>
+	"stm32746g_discovery_audio.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\osl\oslfile.h
+	<complex.h>
+	<stdint.h>
+
+1537782965 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\freqcounter.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdint.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_tim.h"
+	"panvswr2.h"
+	"FreqCounter.h"
+	"main.h"
+
+1537115675 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\panvswr2.h
+
+1537719529 d:\embitz_work\aa\dh1afk\src_dist\src\inc\main.h
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_lcd.h"
+	"stm32746g_discovery_ts.h"
+	"stm32746g_discovery_audio.h"
+	"stm32746g_discovery_qspi.h"
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_msc.h"
+	"stm32_ub_adc3_single.h"
+	"FreqCounter.h"
+	"panvswr2.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_lcd.h
+	"../Components/rk043fn48h/rk043fn48h.h"
+	"stm32746g_discovery_sdram.h"
+	"stm32746g_discovery.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\rk043fn48h\rk043fn48h.h
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_sdram.h
+	"stm32f7xx_hal.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_ts.h
+	"stm32746g_discovery.h"
+	"../Components/ft5336/ft5336.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\ft5336\ft5336.h
+	"../Common/ts.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\common\ts.h
+	<stdint.h>
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_qspi.h
+	"stm32f7xx_hal.h"
+	"../Components/n25q128a/n25q128a.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\n25q128a\n25q128a.h
+
+1515437688 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_core.h
+	"usbd_conf.h"
+	"usbd_def.h"
+	"usbd_ioreq.h"
+	"usbd_ctlreq.h"
+
+1515437688 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_conf.h
+	"stm32f7xx_hal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515437688 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_def.h
+	"usbd_conf.h"
+
+1515437688 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1515437688 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_ctlreq.h
+	"usbd_def.h"
+
+1515437688 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_desc.h
+	"usbd_def.h"
+
+1515437688 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_msc.h
+	"usbd_msc_bot.h"
+	"usbd_msc_scsi.h"
+	"usbd_ioreq.h"
+
+1515437689 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_msc_bot.h
+	"usbd_core.h"
+
+1515437689 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_msc_scsi.h
+	"usbd_def.h"
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\adf4350.c
+	<math.h>
+	"adf4350.h"
+	"si5351.h"
+	"custom_spi2.h"
+	"rational.h"
+	"stm32746g_discovery.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\adf4350.h
+	<stdint.h>
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\si5351.h
+	<stdint.h>
+	"config.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\custom_spi2.h
+	<stdint.h>
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\rational.h
+	<stdint.h>
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\adf4351.c
+	"stm32746g_discovery.h"
+	"adf4351.h"
+	<math.h>
+	"si5351.h"
+	"custom_spi2.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\adf4351.h
+	<stdint.h>
+
+1538323650 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\gen.c
+	"si5351.h"
+	"adf4350.h"
+	"adf4351.h"
+	"si5338a.h"
+	"gen.h"
+	"dsp.h"
+	"config.h"
+	"stm32746g_discovery_audio.h"
+	"crash.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\si5338a.h
+	<stdint.h>
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\rational.c
+	"rational.h"
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\si5338a.c
+	"stm32746g_discovery.h"
+	"si5338a.h"
+	<math.h>
+
+1523033038 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\gen\si5351.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"si5351.h"
+	"config.h"
+	"rational.h"
+	"font.h"
+	"crash.h"
+	"ff.h"
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\bitmaps\bitmaps.c
+	"logo.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\bitmaps\logo.h
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\consbig.c
+	"consbig.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\consbig.h
+	<stdint.h>
+
+1516525554 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\font.c
+	"font.h"
+	"fran.h"
+	"franbig.h"
+	"consbig.h"
+	"sdigits.h"
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\fran.h
+	<stdint.h>
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\franbig.h
+	<stdint.h>
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\sdigits.h
+	<stdint.h>
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\fran.c
+	"fran.h"
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\franbig.c
+	"franbig.h"
+
+1537172932 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\hit.c
+	"hit.h"
+	"config.h"
+	"FreqCounter.h"
+
+1537113831 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\hit.h
+	<stdint.h>
+	"LCD.h"
+	"main.h"
+
+1523632532 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\lcd.c
+	"LCD.h"
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_lcd.h"
+	"libnsbmp.h"
+	"crash.h"
+	<math.h>
+	"font.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\libnsbmp.h
+	<stdbool.h>
+	<stdint.h>
+	<stddef.h>
+
+1520506576 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\libnsbmp.c
+	<assert.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<libnsbmp.h>
+
+1520268524 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\lodepng.c
+	"lodepng.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<lcd.h>
+
+1520246154 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\sdigits.c
+	"sdigits.h"
+
+1516525752 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\smith.c
+	"smith.h"
+	"LCD.h"
+	"font.h"
+	"config.h"
+	<math.h>
+	<complex.h>
+	<limits.h>
+
+1516304254 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\smith.h
+	<stdint.h>
+	<complex.h>
+	"lcd.h"
+
+1537173649 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\textbox.c
+	"textbox.h"
+	"LCD.h"
+	"touch.h"
+	"config.h"
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\touch.c
+	"touch.h"
+	"stm32746g_discovery_ts.h"
+	"stm32746g_discovery_lcd.h"
+	"lcd.h"
+	"config.h"
+
+1536694898 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\osl\match.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	"match.h"
+	"dsp.h"
+	"config.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\osl\match.h
+	<stdint.h>
+	<complex.h>
+
+1540129433 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\osl\oslfile.c
+	<math.h>
+	<float.h>
+	<string.h>
+	"oslfile.h"
+	"ff.h"
+	"crash.h"
+	"config.h"
+	"font.h"
+	"LCD.h"
+	"gen.h"
+	"dsp.h"
+
+1537598987 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\rtc\ds3231.c
+	"DS3231.h"
+
+1537544303 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\rtc\ds3231.h
+	<stdint.h>
+	"config.h"
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\uartcomm\aauart.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"main.h"
+	"stm32f7xx_hal_uart.h"
+	"config.h"
+	"aauart.h"
+	"fifo.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\uartcomm\aauart.h
+	<stdint.h>
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\uartcomm\fifo.h
+	<stdint.h>
+
+1506966400 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\uartcomm\fifo.c
+	"fifo.h"
+
+1537259510 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\fftwnd.c
+	<complex.h>
+	<stdint.h>
+	<math.h>
+	"arm_math.h"
+	<string.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_audio.h"
+	"stm32746g_discovery_lcd.h"
+	"fftwnd.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"crash.h"
+	"gen.h"
+	"dsp.h"
+	"ff.h"
+	"config.h"
+	"si5351.h"
+
+1523044476 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\fftwnd.h
+
+1538476082 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\generator.c
+	<stdint.h>
+	<stdio.h>
+	"LCD.h"
+	"dsp.h"
+	"font.h"
+	"touch.h"
+	"gen.h"
+	"config.h"
+	"hit.h"
+	"main.h"
+	"num_keypad.h"
+	"panfreq.h"
+	"generator.h"
+	"FreqCounter.h"
+
+1537264557 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\num_keypad.h
+	<stdint.h>
+
+1514623480 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\panfreq.h
+	<stdint.h>
+	<stdbool.h>
+	"panvswr2.h"
+
+1523729998 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\generator.h
+
+1537973673 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\keyboard.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"keyboard.h"
+	"textbox.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\keyboard.h
+	<stdint.h>
+
+1540106801 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\mainwnd.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"font.h"
+	"touch.h"
+	"mainwnd.h"
+	"textbox.h"
+	"config.h"
+	"fftwnd.h"
+	"generator.h"
+	"measurement.h"
+	"oslcal.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"main.h"
+	"usbd_storage.h"
+	"ff_gen_drv.h"
+	"sd_diskio.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"aauart.h"
+	"build_timestamp.h"
+	"tdr.h"
+	"screenshot.h"
+	"spectr.h"
+	"stm32_ub_adc3_single.h"
+	"DS3231.h"
+
+1538221912 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\mainwnd.h
+	<ctype.h>
+	"main.h"
+
+1532364666 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\measurement.h
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\oslcal.h
+
+1515437689 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_storage.h
+	"usbd_msc.h"
+
+1515437690 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\ff_gen_drv.h
+	"diskio.h"
+	"ff.h"
+
+1515437690 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\diskio.h
+	"integer.h"
+
+1515437690 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\drivers\sd_diskio.h
+
+1548691039 d:\embitz_work\aa\dh1afk\src_dist\src\inc\build_timestamp.h
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\tdr.h
+
+1537890982 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\screenshot.h
+
+1522784142 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\spectr.h
+	<stdint.h>
+
+1538476082 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\measurement.c
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"dsp.h"
+	"gen.h"
+	"stm32f746xx.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"match.h"
+	"num_keypad.h"
+	"screenshot.h"
+	"smith.h"
+	"measurement.h"
+	"panfreq.h"
+
+1538209392 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\num_keypad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"num_keypad.h"
+	"textbox.h"
+	"mainwnd.h"
+
+1538418445 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\oslcal.c
+	<stdio.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"textbox.h"
+	"oslfile.h"
+
+1538666526 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\panfreq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<stdbool.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"num_keypad.h"
+	"textbox.h"
+	"config.h"
+	"panfreq.h"
+	"panvswr2.h"
+
+1540109810 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\panvswr2.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"smith.h"
+	"textbox.h"
+	"generator.h"
+	"FreqCounter.h"
+
+1538298952 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\screenshot.c
+	<stdint.h>
+	<stdio.h>
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"touch.h"
+	"ff.h"
+	"textbox.h"
+	"screenshot.h"
+	"crash.h"
+	"stm32746g_discovery_lcd.h"
+	"keyboard.h"
+	"lodepng.h"
+	"mainwnd.h"
+	"DS3231.h"
+	"sdram_heap.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\inc\sdram_heap.h
+
+1542199489 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\spectr.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	"arm_math.h"
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"textbox.h"
+	"spectr.h"
+	"fftwnd.h"
+
+1537904377 source:d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\window\tdr.c
+	<stdint.h>
+	<math.h>
+	<complex.h>
+	"arm_math.h"
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"tdr.h"
+	"hit.h"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\ft5336\ft5336.c
+	"ft5336.h"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\ov9655\ov9655.c
+	"ov9655.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\ov9655\ov9655.h
+	"../Common/camera.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\common\camera.h
+	<stdint.h>
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\s5k5cag\s5k5cag.c
+	"s5k5cag.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\s5k5cag\s5k5cag.h
+	"../Common/camera.h"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\components\wm8994\wm8994.c
+	"wm8994.h"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\custom_spi2.c
+	"custom_spi2.h"
+	"stm32746g_discovery.h"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery.c
+	"stm32746g_discovery.h"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_audio.c
+	"stm32746g_discovery_audio.h"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_eeprom.c
+	"stm32746g_discovery_eeprom.h"
+
+1515437685 d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_eeprom.h
+	"stm32746g_discovery.h"
+
+1537903805 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_lcd.c
+	<string.h>
+	"stm32746g_discovery_lcd.h"
+	"../../../Utilities/Fonts/fonts.h"
+	"../../../Utilities/Fonts/font24.c"
+	"../../../Utilities/Fonts/font20.c"
+	"../../../Utilities/Fonts/font16.c"
+	"../../../Utilities/Fonts/font12.c"
+	"../../../Utilities/Fonts/font8.c"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_qspi.c
+	"stm32746g_discovery_qspi.h"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_sd.c
+	"stm32746g_discovery_sd.h"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_sdram.c
+	"stm32746g_discovery_sdram.h"
+
+1515437685 source:d:\embitz_work\aa\dh1afk\src_dist\src\bsp\stm32746g-discovery\stm32746g_discovery_ts.c
+	"stm32746g_discovery_ts.h"
+
+1515437686 source:d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\dsp_lib\source\commontables\arm_common_tables.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\include\arm_common_tables.h
+	"arm_math.h"
+
+1515437686 source:d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\dsp_lib\source\commontables\arm_const_structs.c
+	"arm_const_structs.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\include\arm_const_structs.h
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437686 source:d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\dsp_lib\source\transformfunctions\arm_bitreversal2.s
+
+1515437686 source:d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\dsp_lib\source\transformfunctions\arm_cfft_f32.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437686 source:d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\dsp_lib\source\transformfunctions\arm_cfft_radix8_f32.c
+	"arm_math.h"
+
+1515437686 source:d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\dsp_lib\source\transformfunctions\arm_rfft_fast_f32.c
+	"arm_math.h"
+
+1515437686 source:d:\embitz_work\aa\dh1afk\src_dist\src\cmsis\dsp_lib\source\transformfunctions\arm_rfft_fast_init_f32.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437690 source:d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\diskio.c
+	"diskio.h"
+	"ff_gen_drv.h"
+
+1515437690 source:d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\drivers\sd_diskio.c
+	<string.h>
+	"ff_gen_drv.h"
+
+1519727117 source:d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\ff.c
+	"ff.h"
+	"diskio.h"
+	<stdarg.h>
+
+1515437690 source:d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\ff_gen_drv.c
+	"ff_gen_drv.h"
+
+1515437690 source:d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\option\syscall.c
+	<stdlib.h>
+	"../ff.h"
+
+1515437690 source:d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\option\unicode.c
+	"../ff.h"
+	"cc932.c"
+	"cc936.c"
+	"cc949.c"
+	"cc950.c"
+	"ccsbcs.c"
+
+1515437690 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\option\cc932.c
+	"../ff.h"
+
+1515437690 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\option\cc936.c
+	"../ff.h"
+
+1515437690 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\option\cc949.c
+	"../ff.h"
+
+1515437690 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\option\cc950.c
+	"../ff.h"
+
+1515437690 d:\embitz_work\aa\dh1afk\src_dist\src\fatfs\option\ccsbcs.c
+	"../ff.h"
+
+1538210211 source:d:\embitz_work\aa\dh1afk\src_dist\src\main.c
+	"main.h"
+	<stdio.h>
+	<string.h>
+	"lcd.h"
+	"font.h"
+	"touch.h"
+	"ff.h"
+	"ff_gen_drv.h"
+	"sd_diskio.h"
+	"config.h"
+	"crash.h"
+	"si5351.h"
+	"dsp.h"
+	"mainwnd.h"
+	"aauart.h"
+	"custom_spi2.h"
+	"gen.h"
+	"keyboard.h"
+	"bitmaps/bitmaps.h"
+	"screenshot.h"
+	"DS3231.h"
+	"stm32f7xx.h"
+	"stm32f7xx_hal.h"
+	"stm32f7xx_hal_def.h"
+	"stm32746g_discovery.h"
+	"stm32f7xx_hal_adc.h"
+
+1506966400 d:\embitz_work\aa\dh1afk\src_dist\src\analyzer\lcd\bitmaps\bitmaps.h
+
+1537719747 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal.c
+	"stm32f7xx_hal.h"
+	"main.h"
+
+1532274031 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_adc.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_adc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_can.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cec.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cortex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_crc.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_crc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cryp.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cryp_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dac.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dac_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dcmi.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dcmi_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma2d.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_eth.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_flash.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_flash_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_gpio.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hash.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hash_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hcd.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2c.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2c_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2s.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_irda.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_iwdg.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_lptim.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_ltdc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_nand.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_nor.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pcd.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pcd_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pwr.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pwr_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_qspi.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rcc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rcc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rng.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rtc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rtc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sai.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sai_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sd.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sdram.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_smartcard.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_smartcard_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_spdifrx.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_spi.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sram.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_tim.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_tim_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_uart.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_usart.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_wwdg.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_fmc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_sdmmc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_usb.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\sys\sdram_heap.c
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	"sdram_heap.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\sys\startup_stm32f746xx.s
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\sys\stm32f7xx_hal_msp.c
+	"main.h"
+
+1537719747 source:d:\embitz_work\aa\dh1afk\src_dist\src\sys\stm32f7xx_it.c
+	"main.h"
+	"stm32f7xx_it.h"
+	"aauart.h"
+
+1515437686 d:\embitz_work\aa\dh1afk\src_dist\src\inc\stm32f7xx_it.h
+	"main.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\sys\syscalls.c
+	<stdlib.h>
+	<stdio.h>
+	<reent.h>
+	<sys/stat.h>
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\sys\system_stm32f7xx.c
+	"stm32f7xx.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_conf.c
+	"main.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_core.c
+	"usbd_core.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_ctlreq.c
+	"usbd_ctlreq.h"
+	"usbd_ioreq.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_conf.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1515437688 source:d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_msc.c
+	"usbd_msc.h"
+
+1515437689 source:d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_msc_bot.c
+	"usbd_msc_bot.h"
+	"usbd_msc.h"
+	"usbd_msc_scsi.h"
+	"usbd_ioreq.h"
+
+1515437689 source:d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_msc_data.c
+	"usbd_msc_data.h"
+
+1515437689 d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_msc_data.h
+	"usbd_conf.h"
+
+1515437689 source:d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_msc_scsi.c
+	"usbd_msc_bot.h"
+	"usbd_msc_scsi.h"
+	"usbd_msc.h"
+	"usbd_msc_data.h"
+
+1515437689 source:d:\embitz_work\aa\dh1afk\src_dist\src\usbd\usbd_storage.c
+	"usbd_storage.h"
+	"stm32746g_discovery_sd.h"
+
+1515515612 source:d:\embitz_work\aa\kd8cec\src\analyzer\adc\stm32_ub_adc3_single.c
+	"stm32_ub_adc3_single.h"
+
+1472142942 d:\embitz_work\aa\kd8cec\src\analyzer\adc\stm32_ub_adc3_single.h
+	"stm32_ub_system.h"
+
+1437992568 d:\embitz_work\aa\kd8cec\src\analyzer\adc\stm32_ub_system.h
+	"stm32f7xx.h"
+	"stm32f7xx_hal.h"
+
+1532598522 d:\embitz_work\aa\kd8cec\src\cmsis\device\st\stm32f7xx\include\stm32f7xx.h
+	"stm32f756xx.h"
+	"stm32f746xx.h"
+	"stm32f745xx.h"
+	"stm32f765xx.h"
+	"stm32f767xx.h"
+	"stm32f769xx.h"
+	"stm32f777xx.h"
+	"stm32f779xx.h"
+	"stm32f7xx_hal_conf.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\cmsis\device\st\stm32f7xx\include\stm32f746xx.h
+	"core_cm7.h"
+	"system_stm32f7xx.h"
+	<stdint.h>
+
+1515437686 d:\embitz_work\aa\kd8cec\src\cmsis\include\core_cm7.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+	"core_cmSimd.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\cmsis\include\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437686 d:\embitz_work\aa\kd8cec\src\cmsis\include\cmsis_gcc.h
+
+1515437686 d:\embitz_work\aa\kd8cec\src\cmsis\include\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437686 d:\embitz_work\aa\kd8cec\src\cmsis\include\core_cmsimd.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437686 d:\embitz_work\aa\kd8cec\src\cmsis\device\st\stm32f7xx\include\system_stm32f7xx.h
+
+1532274031 d:\embitz_work\aa\kd8cec\src\inc\stm32f7xx_hal_conf.h
+	<stdint.h>
+	"system_stm32f7xx.h"
+	"stm32f7xx_hal_rcc.h"
+	"stm32f7xx_hal_gpio.h"
+	"stm32f7xx_hal_dma.h"
+	"stm32f7xx_hal_cortex.h"
+	"stm32f7xx_hal_adc.h"
+	"stm32f7xx_hal_can.h"
+	"stm32f7xx_hal_cec.h"
+	"stm32f7xx_hal_crc.h"
+	"stm32f7xx_hal_cryp.h"
+	"stm32f7xx_hal_dma2d.h"
+	"stm32f7xx_hal_dac.h"
+	"stm32f7xx_hal_dcmi.h"
+	"stm32f7xx_hal_eth.h"
+	"stm32f7xx_hal_flash.h"
+	"stm32f7xx_hal_sram.h"
+	"stm32f7xx_hal_nor.h"
+	"stm32f7xx_hal_nand.h"
+	"stm32f7xx_hal_sdram.h"
+	"stm32f7xx_hal_hash.h"
+	"stm32f7xx_hal_i2c.h"
+	"stm32f7xx_hal_i2s.h"
+	"stm32f7xx_hal_iwdg.h"
+	"stm32f7xx_hal_lptim.h"
+	"stm32f7xx_hal_ltdc.h"
+	"stm32f7xx_hal_pwr.h"
+	"stm32f7xx_hal_qspi.h"
+	"stm32f7xx_hal_rng.h"
+	"stm32f7xx_hal_rtc.h"
+	"stm32f7xx_hal_sai.h"
+	"stm32f7xx_hal_sd.h"
+	"stm32f7xx_hal_spdifrx.h"
+	"stm32f7xx_hal_spi.h"
+	"stm32f7xx_hal_tim.h"
+	"stm32f7xx_hal_uart.h"
+	"stm32f7xx_hal_usart.h"
+	"stm32f7xx_hal_irda.h"
+	"stm32f7xx_hal_smartcard.h"
+	"stm32f7xx_hal_wwdg.h"
+	"stm32f7xx_hal_pcd.h"
+	"stm32f7xx_hal_hcd.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rcc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_rcc_ex.h"
+	"stm32f7xx_hal_rcc_ex.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_def.h
+	"stm32f7xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stdio.h>
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rcc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_gpio.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_gpio_ex.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_gpio_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dma_ex.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cortex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_adc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_adc_ex.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_adc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_can.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cec.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_crc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_crc_ex.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_crc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cryp.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_cryp_ex.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cryp_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma2d.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dac.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dac_ex.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dac_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dcmi.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_eth.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_flash.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_flash_ex.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_flash_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sram.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_fmc.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_nor.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_nand.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sdram.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hash.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_hash_ex.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hash_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2c.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_i2c_ex.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2c_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2s.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_iwdg.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_lptim.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_ltdc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_ltdc_ex.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_ltdc_ex.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dsi.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dsi.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pwr.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_pwr_ex.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pwr_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_qspi.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rng.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rtc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_rtc_ex.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rtc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sai.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sd.h
+	"stm32f7xx_ll_sdmmc.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_sdmmc.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_spdifrx.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_spi.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_tim.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_tim_ex.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_tim_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_uart.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_uart_ex.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_uart_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_usart.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_usart_ex.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_usart_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_irda.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_irda_ex.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_irda_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_smartcard.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_smartcard_ex.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_smartcard_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_wwdg.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pcd.h
+	"stm32f7xx_ll_usb.h"
+	"stm32f7xx_hal_pcd_ex.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_usb.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pcd_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hcd.h
+	"stm32f7xx_ll_usb.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal.h
+	"stm32f7xx_hal_conf.h"
+
+1515592112 source:d:\embitz_work\aa\kd8cec\src\analyzer\adc\stm32_ub_system.c
+	"stm32_ub_system.h"
+
+1539881370 source:d:\embitz_work\aa\kd8cec\src\analyzer\config\config.c
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"gen.h"
+	<string.h>
+	<stdint.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"textbox.h"
+
+1548948163 d:\embitz_work\aa\kd8cec\src\analyzer\config\config.h
+	<stdint.h>
+	<stdbool.h>
+	"LCD.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\components\common\lcd.h
+	<stdint.h>
+
+1515437690 d:\embitz_work\aa\kd8cec\src\fatfs\ff.h
+	"integer.h"
+	"ffconf.h"
+
+1515437690 d:\embitz_work\aa\kd8cec\src\fatfs\integer.h
+	<stdint.h>
+
+1537815692 d:\embitz_work\aa\kd8cec\src\fatfs\ffconf.h
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery_sd.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sd.h
+	"stm32746g_discovery.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery.h
+	"stm32f7xx_hal.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\inc\crash.h
+	<stdio.h>
+
+1525353552 d:\embitz_work\aa\kd8cec\src\analyzer\gen\gen.h
+	<stdint.h>
+
+1549123954 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\touch.h
+	"LCD.h"
+	"FreqCounter.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\lcd.h
+	<stdint.h>
+
+1537638509 d:\embitz_work\aa\kd8cec\src\inc\freqcounter.h
+
+1516525580 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\font.h
+	<stdint.h>
+	"LCD.h"
+
+1548743747 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\textbox.h
+	<stdint.h>
+	"font.h"
+
+1548942397 source:d:\embitz_work\aa\kd8cec\src\analyzer\dsp\dsp.c
+	<string.h>
+	<math.h>
+	<limits.h>
+	<complex.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_audio.h"
+	"arm_math.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"config.h"
+	"crash.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_audio.h
+	"../Components/wm8994/wm8994.h"
+	"stm32746g_discovery.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\components\wm8994\wm8994.h
+	"../Common/audio.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\components\common\audio.h
+	<stdint.h>
+
+1515437686 d:\embitz_work\aa\kd8cec\src\cmsis\include\arm_math.h
+	"core_cm7.h"
+	"core_cm4.h"
+	"core_cm3.h"
+	"core_cm0.h"
+	"core_cm0plus.h"
+	"string.h"
+	"math.h"
+
+1538379080 d:\embitz_work\aa\kd8cec\src\analyzer\dsp\dsp.h
+	<stdint.h>
+	<complex.h>
+	"stm32746g_discovery_audio.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\osl\oslfile.h
+	<complex.h>
+	<stdint.h>
+
+1537782965 source:d:\embitz_work\aa\kd8cec\src\analyzer\freqcounter.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdint.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_tim.h"
+	"panvswr2.h"
+	"FreqCounter.h"
+	"main.h"
+
+1537115675 d:\embitz_work\aa\kd8cec\src\analyzer\window\panvswr2.h
+
+1549021879 d:\embitz_work\aa\kd8cec\src\inc\main.h
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_lcd.h"
+	"stm32746g_discovery_ts.h"
+	"stm32746g_discovery_audio.h"
+	"stm32746g_discovery_qspi.h"
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_msc.h"
+	"stm32_ub_adc3_single.h"
+	"FreqCounter.h"
+	"panvswr2.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_lcd.h
+	"../Components/rk043fn48h/rk043fn48h.h"
+	"stm32746g_discovery_sdram.h"
+	"stm32746g_discovery.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\components\rk043fn48h\rk043fn48h.h
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sdram.h
+	"stm32f7xx_hal.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_ts.h
+	"stm32746g_discovery.h"
+	"../Components/ft5336/ft5336.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\components\ft5336\ft5336.h
+	"../Common/ts.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\components\common\ts.h
+	<stdint.h>
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_qspi.h
+	"stm32f7xx_hal.h"
+	"../Components/n25q128a/n25q128a.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\components\n25q128a\n25q128a.h
+
+1515437688 d:\embitz_work\aa\kd8cec\src\usbd\usbd_core.h
+	"usbd_conf.h"
+	"usbd_def.h"
+	"usbd_ioreq.h"
+	"usbd_ctlreq.h"
+
+1515437688 d:\embitz_work\aa\kd8cec\src\usbd\usbd_conf.h
+	"stm32f7xx_hal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515437688 d:\embitz_work\aa\kd8cec\src\usbd\usbd_def.h
+	"usbd_conf.h"
+
+1515437688 d:\embitz_work\aa\kd8cec\src\usbd\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1515437688 d:\embitz_work\aa\kd8cec\src\usbd\usbd_ctlreq.h
+	"usbd_def.h"
+
+1515437688 d:\embitz_work\aa\kd8cec\src\usbd\usbd_desc.h
+	"usbd_def.h"
+
+1515437688 d:\embitz_work\aa\kd8cec\src\usbd\usbd_msc.h
+	"usbd_msc_bot.h"
+	"usbd_msc_scsi.h"
+	"usbd_ioreq.h"
+
+1515437689 d:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_bot.h
+	"usbd_core.h"
+
+1515437689 d:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_scsi.h
+	"usbd_def.h"
+
+1506966400 source:d:\embitz_work\aa\kd8cec\src\analyzer\gen\adf4350.c
+	<math.h>
+	"adf4350.h"
+	"si5351.h"
+	"custom_spi2.h"
+	"rational.h"
+	"stm32746g_discovery.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\gen\adf4350.h
+	<stdint.h>
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\gen\si5351.h
+	<stdint.h>
+	"config.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\custom_spi2.h
+	<stdint.h>
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\gen\rational.h
+	<stdint.h>
+
+1506966400 source:d:\embitz_work\aa\kd8cec\src\analyzer\gen\adf4351.c
+	"stm32746g_discovery.h"
+	"adf4351.h"
+	<math.h>
+	"si5351.h"
+	"custom_spi2.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\gen\adf4351.h
+	<stdint.h>
+
+1548941598 source:d:\embitz_work\aa\kd8cec\src\analyzer\gen\gen.c
+	"si5351.h"
+	"adf4350.h"
+	"adf4351.h"
+	"si5338a.h"
+	"gen.h"
+	"dsp.h"
+	"config.h"
+	"stm32746g_discovery_audio.h"
+	"crash.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\gen\si5338a.h
+	<stdint.h>
+
+1506966400 source:d:\embitz_work\aa\kd8cec\src\analyzer\gen\rational.c
+	"rational.h"
+
+1506966400 source:d:\embitz_work\aa\kd8cec\src\analyzer\gen\si5338a.c
+	"stm32746g_discovery.h"
+	"si5338a.h"
+	<math.h>
+
+1548874410 source:d:\embitz_work\aa\kd8cec\src\analyzer\gen\si5351.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"si5351.h"
+	"config.h"
+	"rational.h"
+	"font.h"
+	"crash.h"
+	"ff.h"
+
+1548734393 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\bitmaps.c
+	"logo.h"
+	"mainimg.h"
+	"imgbuttons.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\logo.h
+
+1506966400 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\consbig.c
+	"consbig.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\consbig.h
+	<stdint.h>
+
+1516525554 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\font.c
+	"font.h"
+	"fran.h"
+	"franbig.h"
+	"consbig.h"
+	"sdigits.h"
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\fran.h
+	<stdint.h>
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\franbig.h
+	<stdint.h>
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\sdigits.h
+	<stdint.h>
+
+1506966400 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\fran.c
+	"fran.h"
+
+1506966400 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\franbig.c
+	"franbig.h"
+
+1537172932 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\hit.c
+	"hit.h"
+	"config.h"
+	"FreqCounter.h"
+
+1537113831 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\hit.h
+	<stdint.h>
+	"LCD.h"
+	"main.h"
+
+1549080434 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\lcd.c
+	"LCD.h"
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_lcd.h"
+	"libnsbmp.h"
+	"crash.h"
+	<math.h>
+	"font.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\libnsbmp.h
+	<stdbool.h>
+	<stdint.h>
+	<stddef.h>
+
+1520506576 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\libnsbmp.c
+	<assert.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<libnsbmp.h>
+
+1520268524 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\lodepng.c
+	"lodepng.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<lcd.h>
+
+1520246154 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1506966400 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\sdigits.c
+	"sdigits.h"
+
+1516525752 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\smith.c
+	"smith.h"
+	"LCD.h"
+	"font.h"
+	"config.h"
+	<math.h>
+	<complex.h>
+	<limits.h>
+
+1516304254 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\smith.h
+	<stdint.h>
+	<complex.h>
+	"lcd.h"
+
+1548743175 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\textbox.c
+	"textbox.h"
+	"LCD.h"
+	"touch.h"
+	"config.h"
+	"bitmaps/bitmaps.h"
+
+1549123868 source:d:\embitz_work\aa\kd8cec\src\analyzer\lcd\touch.c
+	"touch.h"
+	"stm32746g_discovery_ts.h"
+	"stm32746g_discovery_lcd.h"
+	"lcd.h"
+	"config.h"
+
+1536694898 source:d:\embitz_work\aa\kd8cec\src\analyzer\osl\match.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	"match.h"
+	"dsp.h"
+	"config.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\osl\match.h
+	<stdint.h>
+	<complex.h>
+
+1548948250 source:d:\embitz_work\aa\kd8cec\src\analyzer\osl\oslfile.c
+	<math.h>
+	<float.h>
+	<string.h>
+	"oslfile.h"
+	"ff.h"
+	"crash.h"
+	"config.h"
+	"font.h"
+	"LCD.h"
+	"gen.h"
+	"dsp.h"
+
+1537598987 source:d:\embitz_work\aa\kd8cec\src\analyzer\rtc\ds3231.c
+	"DS3231.h"
+
+1537544303 d:\embitz_work\aa\kd8cec\src\analyzer\rtc\ds3231.h
+	<stdint.h>
+	"config.h"
+
+1548841988 source:d:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\aauart.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"main.h"
+	"stm32f7xx_hal_uart.h"
+	"config.h"
+	"aauart.h"
+	"fifo.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\aauart.h
+	<stdint.h>
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\fifo.h
+	<stdint.h>
+
+1506966400 source:d:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\fifo.c
+	"fifo.h"
+
+1537259510 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\fftwnd.c
+	<complex.h>
+	<stdint.h>
+	<math.h>
+	"arm_math.h"
+	<string.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_audio.h"
+	"stm32746g_discovery_lcd.h"
+	"fftwnd.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"crash.h"
+	"gen.h"
+	"dsp.h"
+	"ff.h"
+	"config.h"
+	"si5351.h"
+
+1523044476 d:\embitz_work\aa\kd8cec\src\analyzer\window\fftwnd.h
+
+1538476082 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\generator.c
+	<stdint.h>
+	<stdio.h>
+	"LCD.h"
+	"dsp.h"
+	"font.h"
+	"touch.h"
+	"gen.h"
+	"config.h"
+	"hit.h"
+	"main.h"
+	"num_keypad.h"
+	"panfreq.h"
+	"generator.h"
+	"FreqCounter.h"
+
+1537264557 d:\embitz_work\aa\kd8cec\src\analyzer\window\num_keypad.h
+	<stdint.h>
+
+1514623480 d:\embitz_work\aa\kd8cec\src\analyzer\window\panfreq.h
+	<stdint.h>
+	<stdbool.h>
+	"panvswr2.h"
+
+1523729998 d:\embitz_work\aa\kd8cec\src\analyzer\window\generator.h
+
+1537973673 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\keyboard.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"keyboard.h"
+	"textbox.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\window\keyboard.h
+	<stdint.h>
+
+1538476082 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\measurement.c
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"dsp.h"
+	"gen.h"
+	"stm32f746xx.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"match.h"
+	"num_keypad.h"
+	"screenshot.h"
+	"smith.h"
+	"measurement.h"
+	"panfreq.h"
+
+1537890982 d:\embitz_work\aa\kd8cec\src\analyzer\window\screenshot.h
+
+1532364666 d:\embitz_work\aa\kd8cec\src\analyzer\window\measurement.h
+
+1538209392 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\num_keypad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"num_keypad.h"
+	"textbox.h"
+	"mainwnd.h"
+
+1538221912 d:\embitz_work\aa\kd8cec\src\analyzer\window\mainwnd.h
+	<ctype.h>
+	"main.h"
+
+1548948272 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\oslcal.c
+	<stdio.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"textbox.h"
+	"oslfile.h"
+
+1538666526 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\panfreq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<stdbool.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"num_keypad.h"
+	"textbox.h"
+	"config.h"
+	"panfreq.h"
+	"panvswr2.h"
+
+1548950326 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\panvswr2.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"smith.h"
+	"textbox.h"
+	"generator.h"
+	"FreqCounter.h"
+
+1538298952 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\screenshot.c
+	<stdint.h>
+	<stdio.h>
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"touch.h"
+	"ff.h"
+	"textbox.h"
+	"screenshot.h"
+	"crash.h"
+	"stm32746g_discovery_lcd.h"
+	"keyboard.h"
+	"lodepng.h"
+	"mainwnd.h"
+	"DS3231.h"
+	"sdram_heap.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\inc\sdram_heap.h
+
+1542199489 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\spectr.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	"arm_math.h"
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"textbox.h"
+	"spectr.h"
+	"fftwnd.h"
+
+1522784142 d:\embitz_work\aa\kd8cec\src\analyzer\window\spectr.h
+	<stdint.h>
+
+1537904377 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\tdr.c
+	<stdint.h>
+	<math.h>
+	<complex.h>
+	"arm_math.h"
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"tdr.h"
+	"hit.h"
+
+1506966400 d:\embitz_work\aa\kd8cec\src\analyzer\window\tdr.h
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\components\ft5336\ft5336.c
+	"ft5336.h"
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\components\ov9655\ov9655.c
+	"ov9655.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\components\ov9655\ov9655.h
+	"../Common/camera.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\components\common\camera.h
+	<stdint.h>
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\components\s5k5cag\s5k5cag.c
+	"s5k5cag.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\components\s5k5cag\s5k5cag.h
+	"../Common/camera.h"
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\components\wm8994\wm8994.c
+	"wm8994.h"
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\custom_spi2.c
+	"custom_spi2.h"
+	"stm32746g_discovery.h"
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery.c
+	"stm32746g_discovery.h"
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_audio.c
+	"stm32746g_discovery_audio.h"
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_eeprom.c
+	"stm32746g_discovery_eeprom.h"
+
+1515437685 d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_eeprom.h
+	"stm32746g_discovery.h"
+
+1549078278 source:d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_lcd.c
+	<string.h>
+	"stm32746g_discovery_lcd.h"
+	"../../../Utilities/Fonts/fonts.h"
+	"../../../Utilities/Fonts/font24.c"
+	"../../../Utilities/Fonts/font20.c"
+	"../../../Utilities/Fonts/font16.c"
+	"../../../Utilities/Fonts/font12.c"
+	"../../../Utilities/Fonts/font8.c"
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_qspi.c
+	"stm32746g_discovery_qspi.h"
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sd.c
+	"stm32746g_discovery_sd.h"
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sdram.c
+	"stm32746g_discovery_sdram.h"
+
+1515437685 source:d:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_ts.c
+	"stm32746g_discovery_ts.h"
+
+1515437686 source:d:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\commontables\arm_common_tables.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\cmsis\include\arm_common_tables.h
+	"arm_math.h"
+
+1515437686 source:d:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\commontables\arm_const_structs.c
+	"arm_const_structs.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\cmsis\include\arm_const_structs.h
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437686 source:d:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_bitreversal2.s
+
+1515437686 source:d:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_cfft_f32.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437686 source:d:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_cfft_radix8_f32.c
+	"arm_math.h"
+
+1515437686 source:d:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_rfft_fast_f32.c
+	"arm_math.h"
+
+1515437686 source:d:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_rfft_fast_init_f32.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437690 source:d:\embitz_work\aa\kd8cec\src\fatfs\diskio.c
+	"diskio.h"
+	"ff_gen_drv.h"
+
+1515437690 d:\embitz_work\aa\kd8cec\src\fatfs\diskio.h
+	"integer.h"
+
+1515437690 d:\embitz_work\aa\kd8cec\src\fatfs\ff_gen_drv.h
+	"diskio.h"
+	"ff.h"
+
+1515437690 source:d:\embitz_work\aa\kd8cec\src\fatfs\drivers\sd_diskio.c
+	<string.h>
+	"ff_gen_drv.h"
+
+1519727117 source:d:\embitz_work\aa\kd8cec\src\fatfs\ff.c
+	"ff.h"
+	"diskio.h"
+	<stdarg.h>
+
+1515437690 source:d:\embitz_work\aa\kd8cec\src\fatfs\ff_gen_drv.c
+	"ff_gen_drv.h"
+
+1515437690 source:d:\embitz_work\aa\kd8cec\src\fatfs\option\syscall.c
+	<stdlib.h>
+	"../ff.h"
+
+1515437690 source:d:\embitz_work\aa\kd8cec\src\fatfs\option\unicode.c
+	"../ff.h"
+	"cc932.c"
+	"cc936.c"
+	"cc949.c"
+	"cc950.c"
+	"ccsbcs.c"
+
+1515437690 d:\embitz_work\aa\kd8cec\src\fatfs\option\cc932.c
+	"../ff.h"
+
+1515437690 d:\embitz_work\aa\kd8cec\src\fatfs\option\cc936.c
+	"../ff.h"
+
+1515437690 d:\embitz_work\aa\kd8cec\src\fatfs\option\cc949.c
+	"../ff.h"
+
+1515437690 d:\embitz_work\aa\kd8cec\src\fatfs\option\cc950.c
+	"../ff.h"
+
+1515437690 d:\embitz_work\aa\kd8cec\src\fatfs\option\ccsbcs.c
+	"../ff.h"
+
+1537719747 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal.c
+	"stm32f7xx_hal.h"
+	"main.h"
+
+1532274031 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_adc.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_adc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_can.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cec.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cortex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_crc.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_crc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cryp.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cryp_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dac.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dac_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dcmi.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dcmi_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma2d.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_eth.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_flash.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_flash_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_gpio.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hash.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hash_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hcd.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2c.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2c_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2s.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_irda.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_iwdg.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_lptim.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_ltdc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_nand.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_nor.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pcd.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pcd_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pwr.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pwr_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_qspi.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rcc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rcc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rng.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rtc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rtc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sai.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sai_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sd.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sdram.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_smartcard.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_smartcard_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_spdifrx.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_spi.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sram.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_tim.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_tim_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_uart.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_usart.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_wwdg.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_fmc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_sdmmc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_usb.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\sys\sdram_heap.c
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	"sdram_heap.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\sys\startup_stm32f746xx.s
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\sys\stm32f7xx_hal_msp.c
+	"main.h"
+
+1537719747 source:d:\embitz_work\aa\kd8cec\src\sys\stm32f7xx_it.c
+	"main.h"
+	"stm32f7xx_it.h"
+	"aauart.h"
+
+1515437686 d:\embitz_work\aa\kd8cec\src\inc\stm32f7xx_it.h
+	"main.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\sys\syscalls.c
+	<stdlib.h>
+	<stdio.h>
+	<reent.h>
+	<sys/stat.h>
+
+1549086538 source:d:\embitz_work\aa\kd8cec\src\sys\system_stm32f7xx.c
+	"stm32f7xx.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\usbd\usbd_conf.c
+	"main.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\usbd\usbd_core.c
+	"usbd_core.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\usbd\usbd_ctlreq.c
+	"usbd_ctlreq.h"
+	"usbd_ioreq.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\usbd\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_conf.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\usbd\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1515437688 source:d:\embitz_work\aa\kd8cec\src\usbd\usbd_msc.c
+	"usbd_msc.h"
+
+1515437689 source:d:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_bot.c
+	"usbd_msc_bot.h"
+	"usbd_msc.h"
+	"usbd_msc_scsi.h"
+	"usbd_ioreq.h"
+
+1515437689 source:d:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_data.c
+	"usbd_msc_data.h"
+
+1515437689 d:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_data.h
+	"usbd_conf.h"
+
+1515437689 source:d:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_scsi.c
+	"usbd_msc_bot.h"
+	"usbd_msc_scsi.h"
+	"usbd_msc.h"
+	"usbd_msc_data.h"
+
+1515437689 source:d:\embitz_work\aa\kd8cec\src\usbd\usbd_storage.c
+	"usbd_storage.h"
+	"stm32746g_discovery_sd.h"
+
+1515437689 d:\embitz_work\aa\kd8cec\src\usbd\usbd_storage.h
+	"usbd_msc.h"
+
+1549090974 source:d:\embitz_work\aa\kd8cec\src\main.c
+	"main.h"
+	<stdio.h>
+	<string.h>
+	"lcd.h"
+	"font.h"
+	"touch.h"
+	"ff.h"
+	"ff_gen_drv.h"
+	"sd_diskio.h"
+	"config.h"
+	"crash.h"
+	"si5351.h"
+	"dsp.h"
+	"mainwnd.h"
+	"aauart.h"
+	"custom_spi2.h"
+	"gen.h"
+	"keyboard.h"
+	"bitmaps/bitmaps.h"
+	"screenshot.h"
+	"DS3231.h"
+	"stm32f7xx.h"
+	"stm32f7xx_hal.h"
+	"stm32f7xx_hal_def.h"
+	"stm32746g_discovery.h"
+	"stm32f7xx_hal_adc.h"
+
+1515437690 d:\embitz_work\aa\kd8cec\src\fatfs\drivers\sd_diskio.h
+
+1548743867 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\bitmaps.h
+
+1549123386 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\mainwnd.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"font.h"
+	"touch.h"
+	"mainwnd.h"
+	"textbox.h"
+	"config.h"
+	"fftwnd.h"
+	"generator.h"
+	"measurement.h"
+	"oslcal.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"main.h"
+	"usbd_storage.h"
+	"ff_gen_drv.h"
+	"sd_diskio.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"aauart.h"
+	"build_timestamp.h"
+	"tdr.h"
+	"screenshot.h"
+	"spectr.h"
+	"stm32_ub_adc3_single.h"
+	"DS3231.h"
+	"guicontrol.h"
+
+1548948247 d:\embitz_work\aa\kd8cec\src\analyzer\window\oslcal.h
+
+1549125984 d:\embitz_work\aa\kd8cec\src\inc\build_timestamp.h
+
+1549089432 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\mainimg.h
+
+1515515612 source:j:\embitz_work\aa\kd8cec\src\analyzer\adc\stm32_ub_adc3_single.c
+	"stm32_ub_adc3_single.h"
+
+1472142942 j:\embitz_work\aa\kd8cec\src\analyzer\adc\stm32_ub_adc3_single.h
+	"stm32_ub_system.h"
+
+1437992568 j:\embitz_work\aa\kd8cec\src\analyzer\adc\stm32_ub_system.h
+	"stm32f7xx.h"
+	"stm32f7xx_hal.h"
+
+1532598524 j:\embitz_work\aa\kd8cec\src\cmsis\device\st\stm32f7xx\include\stm32f7xx.h
+	"stm32f756xx.h"
+	"stm32f746xx.h"
+	"stm32f745xx.h"
+	"stm32f765xx.h"
+	"stm32f767xx.h"
+	"stm32f769xx.h"
+	"stm32f777xx.h"
+	"stm32f779xx.h"
+	"stm32f7xx_hal_conf.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\cmsis\device\st\stm32f7xx\include\stm32f746xx.h
+	"core_cm7.h"
+	"system_stm32f7xx.h"
+	<stdint.h>
+
+1515437688 j:\embitz_work\aa\kd8cec\src\cmsis\include\core_cm7.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+	"core_cmSimd.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\cmsis\include\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437688 j:\embitz_work\aa\kd8cec\src\cmsis\include\cmsis_gcc.h
+
+1515437688 j:\embitz_work\aa\kd8cec\src\cmsis\include\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437688 j:\embitz_work\aa\kd8cec\src\cmsis\include\core_cmsimd.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437688 j:\embitz_work\aa\kd8cec\src\cmsis\device\st\stm32f7xx\include\system_stm32f7xx.h
+
+1532274032 j:\embitz_work\aa\kd8cec\src\inc\stm32f7xx_hal_conf.h
+	<stdint.h>
+	"system_stm32f7xx.h"
+	"stm32f7xx_hal_rcc.h"
+	"stm32f7xx_hal_gpio.h"
+	"stm32f7xx_hal_dma.h"
+	"stm32f7xx_hal_cortex.h"
+	"stm32f7xx_hal_adc.h"
+	"stm32f7xx_hal_can.h"
+	"stm32f7xx_hal_cec.h"
+	"stm32f7xx_hal_crc.h"
+	"stm32f7xx_hal_cryp.h"
+	"stm32f7xx_hal_dma2d.h"
+	"stm32f7xx_hal_dac.h"
+	"stm32f7xx_hal_dcmi.h"
+	"stm32f7xx_hal_eth.h"
+	"stm32f7xx_hal_flash.h"
+	"stm32f7xx_hal_sram.h"
+	"stm32f7xx_hal_nor.h"
+	"stm32f7xx_hal_nand.h"
+	"stm32f7xx_hal_sdram.h"
+	"stm32f7xx_hal_hash.h"
+	"stm32f7xx_hal_i2c.h"
+	"stm32f7xx_hal_i2s.h"
+	"stm32f7xx_hal_iwdg.h"
+	"stm32f7xx_hal_lptim.h"
+	"stm32f7xx_hal_ltdc.h"
+	"stm32f7xx_hal_pwr.h"
+	"stm32f7xx_hal_qspi.h"
+	"stm32f7xx_hal_rng.h"
+	"stm32f7xx_hal_rtc.h"
+	"stm32f7xx_hal_sai.h"
+	"stm32f7xx_hal_sd.h"
+	"stm32f7xx_hal_spdifrx.h"
+	"stm32f7xx_hal_spi.h"
+	"stm32f7xx_hal_tim.h"
+	"stm32f7xx_hal_uart.h"
+	"stm32f7xx_hal_usart.h"
+	"stm32f7xx_hal_irda.h"
+	"stm32f7xx_hal_smartcard.h"
+	"stm32f7xx_hal_wwdg.h"
+	"stm32f7xx_hal_pcd.h"
+	"stm32f7xx_hal_hcd.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rcc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_rcc_ex.h"
+	"stm32f7xx_hal_rcc_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_def.h
+	"stm32f7xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stdio.h>
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rcc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_gpio.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_gpio_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_gpio_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dma_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cortex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_adc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_adc_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_adc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_can.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cec.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_crc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_crc_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_crc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cryp.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_cryp_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cryp_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma2d.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dac.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dac_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dac_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dcmi.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_eth.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_flash.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_flash_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_flash_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sram.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_fmc.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_nor.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_nand.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sdram.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hash.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_hash_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hash_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2c.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_i2c_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2c_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2s.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_iwdg.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_lptim.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_ltdc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_ltdc_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_ltdc_ex.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dsi.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dsi.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pwr.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_pwr_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pwr_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_qspi.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rng.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rtc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_rtc_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rtc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1549185478 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sai.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sd.h
+	"stm32f7xx_ll_sdmmc.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_sdmmc.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_spdifrx.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_spi.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_tim.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_tim_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_tim_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_uart.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_uart_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_uart_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_usart.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_usart_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_usart_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_irda.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_irda_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_irda_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_smartcard.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_smartcard_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_smartcard_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_wwdg.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pcd.h
+	"stm32f7xx_ll_usb.h"
+	"stm32f7xx_hal_pcd_ex.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_usb.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pcd_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hcd.h
+	"stm32f7xx_ll_usb.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal.h
+	"stm32f7xx_hal_conf.h"
+
+1515592112 source:j:\embitz_work\aa\kd8cec\src\analyzer\adc\stm32_ub_system.c
+	"stm32_ub_system.h"
+
+1557894512 source:j:\embitz_work\aa\kd8cec\src\analyzer\config\config.c
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"gen.h"
+	<string.h>
+	<stdint.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"textbox.h"
+
+1557845189 j:\embitz_work\aa\kd8cec\src\analyzer\config\config.h
+	<stdint.h>
+	<stdbool.h>
+	"LCD.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\components\common\lcd.h
+	<stdint.h>
+
+1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\ff.h
+	"integer.h"
+	"ffconf.h"
+
+1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\integer.h
+	<stdint.h>
+
+1537815694 j:\embitz_work\aa\kd8cec\src\fatfs\ffconf.h
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery_sd.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sd.h
+	"stm32746g_discovery.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery.h
+	"stm32f7xx_hal.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\inc\crash.h
+	<stdio.h>
+
+1525353552 j:\embitz_work\aa\kd8cec\src\analyzer\gen\gen.h
+	<stdint.h>
+
+1549123956 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\touch.h
+	"LCD.h"
+	"FreqCounter.h"
+
+1553607822 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\lcd.h
+	<stdint.h>
+
+1537638510 j:\embitz_work\aa\kd8cec\src\inc\freqcounter.h
+
+1553601404 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\font.h
+	<stdint.h>
+	"LCD.h"
+
+1548743748 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\textbox.h
+	<stdint.h>
+	"font.h"
+
+1553955687 source:j:\embitz_work\aa\kd8cec\src\analyzer\dsp\dsp.c
+	<string.h>
+	<math.h>
+	<limits.h>
+	<complex.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_audio.h"
+	"arm_math.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"config.h"
+	"crash.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_audio.h
+	"../Components/wm8994/wm8994.h"
+	"stm32746g_discovery.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\components\wm8994\wm8994.h
+	"../Common/audio.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\components\common\audio.h
+	<stdint.h>
+
+1515437688 j:\embitz_work\aa\kd8cec\src\cmsis\include\arm_math.h
+	"core_cm7.h"
+	"core_cm4.h"
+	"core_cm3.h"
+	"core_cm0.h"
+	"core_cm0plus.h"
+	"string.h"
+	"math.h"
+
+1549199326 j:\embitz_work\aa\kd8cec\src\analyzer\dsp\dsp.h
+	<stdint.h>
+	<complex.h>
+	"stm32746g_discovery_audio.h"
+
+1549212698 j:\embitz_work\aa\kd8cec\src\analyzer\osl\oslfile.h
+	<complex.h>
+	<stdint.h>
+
+1552728585 source:j:\embitz_work\aa\kd8cec\src\analyzer\freqcounter.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdint.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_tim.h"
+	"panvswr2.h"
+	"FreqCounter.h"
+	"main.h"
+
+1552757993 j:\embitz_work\aa\kd8cec\src\analyzer\window\panvswr2.h
+
+1549021880 j:\embitz_work\aa\kd8cec\src\inc\main.h
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_lcd.h"
+	"stm32746g_discovery_ts.h"
+	"stm32746g_discovery_audio.h"
+	"stm32746g_discovery_qspi.h"
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_msc.h"
+	"stm32_ub_adc3_single.h"
+	"FreqCounter.h"
+	"panvswr2.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_lcd.h
+	"../Components/rk043fn48h/rk043fn48h.h"
+	"stm32746g_discovery_sdram.h"
+	"stm32746g_discovery.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\components\rk043fn48h\rk043fn48h.h
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sdram.h
+	"stm32f7xx_hal.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_ts.h
+	"stm32746g_discovery.h"
+	"../Components/ft5336/ft5336.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\components\ft5336\ft5336.h
+	"../Common/ts.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\components\common\ts.h
+	<stdint.h>
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_qspi.h
+	"stm32f7xx_hal.h"
+	"../Components/n25q128a/n25q128a.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\components\n25q128a\n25q128a.h
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_core.h
+	"usbd_conf.h"
+	"usbd_def.h"
+	"usbd_ioreq.h"
+	"usbd_ctlreq.h"
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_conf.h
+	"stm32f7xx_hal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_def.h
+	"usbd_conf.h"
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_ctlreq.h
+	"usbd_def.h"
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_desc.h
+	"usbd_def.h"
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_msc.h
+	"usbd_msc_bot.h"
+	"usbd_msc_scsi.h"
+	"usbd_ioreq.h"
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_bot.h
+	"usbd_core.h"
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_scsi.h
+	"usbd_def.h"
+
+1506966400 source:j:\embitz_work\aa\kd8cec\src\analyzer\gen\adf4350.c
+	<math.h>
+	"adf4350.h"
+	"si5351.h"
+	"custom_spi2.h"
+	"rational.h"
+	"stm32746g_discovery.h"
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\gen\adf4350.h
+	<stdint.h>
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\gen\si5351.h
+	<stdint.h>
+	"config.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\custom_spi2.h
+	<stdint.h>
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\gen\rational.h
+	<stdint.h>
+
+1506966400 source:j:\embitz_work\aa\kd8cec\src\analyzer\gen\adf4351.c
+	"stm32746g_discovery.h"
+	"adf4351.h"
+	<math.h>
+	"si5351.h"
+	"custom_spi2.h"
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\gen\adf4351.h
+	<stdint.h>
+
+1557894912 source:j:\embitz_work\aa\kd8cec\src\analyzer\gen\gen.c
+	"si5351.h"
+	"adf4350.h"
+	"adf4351.h"
+	"si5338a.h"
+	"gen.h"
+	"dsp.h"
+	"config.h"
+	"stm32746g_discovery_audio.h"
+	"crash.h"
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\gen\si5338a.h
+	<stdint.h>
+
+1506966400 source:j:\embitz_work\aa\kd8cec\src\analyzer\gen\rational.c
+	"rational.h"
+
+1506966400 source:j:\embitz_work\aa\kd8cec\src\analyzer\gen\si5338a.c
+	"stm32746g_discovery.h"
+	"si5338a.h"
+	<math.h>
+
+1551068402 source:j:\embitz_work\aa\kd8cec\src\analyzer\gen\si5351.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"si5351.h"
+	"config.h"
+	"rational.h"
+	"font.h"
+	"crash.h"
+	"ff.h"
+
+1548734394 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\bitmaps.c
+	"logo.h"
+	"mainimg.h"
+	"imgbuttons.h"
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\logo.h
+
+1557408597 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\mainimg.h
+
+1506966400 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\consbig.c
+	"consbig.h"
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\consbig.h
+	<stdint.h>
+
+1553083395 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\font.c
+	"font.h"
+	"fran.h"
+	"franbig.h"
+	"consbig.h"
+	"sdigits.h"
+	"bdigits.h"
+	"menufont.h"
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\fran.h
+	<stdint.h>
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\franbig.h
+	<stdint.h>
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\sdigits.h
+	<stdint.h>
+
+1506966400 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\fran.c
+	"fran.h"
+
+1506966400 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\franbig.c
+	"franbig.h"
+
+1537172934 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\hit.c
+	"hit.h"
+	"config.h"
+	"FreqCounter.h"
+
+1537113832 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\hit.h
+	<stdint.h>
+	"LCD.h"
+	"main.h"
+
+1557845143 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\lcd.c
+	"LCD.h"
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_lcd.h"
+	"libnsbmp.h"
+	"crash.h"
+	<math.h>
+	"font.h"
+	"touch.h"
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\libnsbmp.h
+	<stdbool.h>
+	<stdint.h>
+	<stddef.h>
+
+1553601496 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\libnsbmp.c
+	<assert.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<libnsbmp.h>
+
+1520268524 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\lodepng.c
+	"lodepng.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<lcd.h>
+
+1520246154 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1551367945 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\sdigits.c
+	"sdigits.h"
+
+1516525752 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\smith.c
+	"smith.h"
+	"LCD.h"
+	"font.h"
+	"config.h"
+	<math.h>
+	<complex.h>
+	<limits.h>
+
+1516304254 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\smith.h
+	<stdint.h>
+	<complex.h>
+	"lcd.h"
+
+1552733006 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\textbox.c
+	"textbox.h"
+	"LCD.h"
+	"touch.h"
+	"config.h"
+	"bitmaps/bitmaps.h"
+
+1551424697 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\touch.c
+	"touch.h"
+	"stm32746g_discovery_ts.h"
+	"stm32746g_discovery_lcd.h"
+	"lcd.h"
+	"config.h"
+
+1536694898 source:j:\embitz_work\aa\kd8cec\src\analyzer\osl\match.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	"match.h"
+	"dsp.h"
+	"config.h"
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\osl\match.h
+	<stdint.h>
+	<complex.h>
+
+1555065131 source:j:\embitz_work\aa\kd8cec\src\analyzer\osl\oslfile.c
+	<math.h>
+	<float.h>
+	<string.h>
+	"oslfile.h"
+	"ff.h"
+	"crash.h"
+	"config.h"
+	"font.h"
+	"LCD.h"
+	"gen.h"
+	"dsp.h"
+
+1537598988 source:j:\embitz_work\aa\kd8cec\src\analyzer\rtc\ds3231.c
+	"DS3231.h"
+
+1537544304 j:\embitz_work\aa\kd8cec\src\analyzer\rtc\ds3231.h
+	<stdint.h>
+	"config.h"
+
+1551315693 source:j:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\aauart.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"main.h"
+	"stm32f7xx_hal_uart.h"
+	"config.h"
+	"aauart.h"
+	"fifo.h"
+	<stdarg.h>
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\aauart.h
+	<stdint.h>
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\fifo.h
+	<stdint.h>
+
+1506966400 source:j:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\fifo.c
+	"fifo.h"
+
+1551837213 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\fftwnd.c
+	<complex.h>
+	<stdint.h>
+	<math.h>
+	"arm_math.h"
+	<string.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_audio.h"
+	"stm32746g_discovery_lcd.h"
+	"fftwnd.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"crash.h"
+	"gen.h"
+	"dsp.h"
+	"ff.h"
+	"config.h"
+	"si5351.h"
+
+1551835963 j:\embitz_work\aa\kd8cec\src\analyzer\window\fftwnd.h
+
+1553052639 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\generator.c
+	<stdint.h>
+	<stdio.h>
+	"LCD.h"
+	"dsp.h"
+	"font.h"
+	"touch.h"
+	"gen.h"
+	"config.h"
+	"hit.h"
+	"main.h"
+	"num_keypad.h"
+	"panfreq.h"
+	"generator.h"
+	"FreqCounter.h"
+
+1537264558 j:\embitz_work\aa\kd8cec\src\analyzer\window\num_keypad.h
+	<stdint.h>
+
+1514623480 j:\embitz_work\aa\kd8cec\src\analyzer\window\panfreq.h
+	<stdint.h>
+	<stdbool.h>
+	"panvswr2.h"
+
+1552729374 j:\embitz_work\aa\kd8cec\src\analyzer\window\generator.h
+
+1537973674 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\keyboard.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"keyboard.h"
+	"textbox.h"
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\window\keyboard.h
+	<stdint.h>
+
+1557921044 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\measurement.c
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"dsp.h"
+	"gen.h"
+	"stm32f746xx.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"match.h"
+	"num_keypad.h"
+	"screenshot.h"
+	"smith.h"
+	"measurement.h"
+	"panfreq.h"
+	"bitmaps/bitmaps.h"
+
+1537890984 j:\embitz_work\aa\kd8cec\src\analyzer\window\screenshot.h
+
+1532364666 j:\embitz_work\aa\kd8cec\src\analyzer\window\measurement.h
+
+1538209394 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\num_keypad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"num_keypad.h"
+	"textbox.h"
+	"mainwnd.h"
+
+1552729450 j:\embitz_work\aa\kd8cec\src\analyzer\window\mainwnd.h
+	<ctype.h>
+	"main.h"
+
+1549193486 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\oslcal.c
+	<stdio.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"textbox.h"
+	"oslfile.h"
+
+1553352907 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\panfreq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<stdbool.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"num_keypad.h"
+	"textbox.h"
+	"config.h"
+	"panfreq.h"
+	"panvswr2.h"
+
+1557931565 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\panvswr2.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"main.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"smith.h"
+	"textbox.h"
+	"generator.h"
+	"FreqCounter.h"
+	"bitmaps/bitmaps.h"
+	"bitmaps/bitmaps.h"
+
+1555074204 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\screenshot.c
+	<stdint.h>
+	<stdio.h>
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"touch.h"
+	"ff.h"
+	"textbox.h"
+	"screenshot.h"
+	"crash.h"
+	"stm32746g_discovery_lcd.h"
+	"keyboard.h"
+	"lodepng.h"
+	"mainwnd.h"
+	"DS3231.h"
+	"sdram_heap.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\inc\sdram_heap.h
+
+1557994864 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\spectr.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	"arm_math.h"
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"textbox.h"
+	"spectr.h"
+	"fftwnd.h"
+
+1522784142 j:\embitz_work\aa\kd8cec\src\analyzer\window\spectr.h
+	<stdint.h>
+
+1551849495 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\tdr.c
+	<stdint.h>
+	<math.h>
+	<complex.h>
+	"arm_math.h"
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"tdr.h"
+	"hit.h"
+
+1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\window\tdr.h
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\components\ft5336\ft5336.c
+	"ft5336.h"
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\components\ov9655\ov9655.c
+	"ov9655.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\components\ov9655\ov9655.h
+	"../Common/camera.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\components\common\camera.h
+	<stdint.h>
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\components\s5k5cag\s5k5cag.c
+	"s5k5cag.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\components\s5k5cag\s5k5cag.h
+	"../Common/camera.h"
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\components\wm8994\wm8994.c
+	"wm8994.h"
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\custom_spi2.c
+	"custom_spi2.h"
+	"stm32746g_discovery.h"
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery.c
+	"stm32746g_discovery.h"
+
+1549184700 source:j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_audio.c
+	"stm32746g_discovery_audio.h"
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_eeprom.c
+	"stm32746g_discovery_eeprom.h"
+
+1515437686 j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_eeprom.h
+	"stm32746g_discovery.h"
+
+1556710436 source:j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_lcd.c
+	<string.h>
+	"stm32746g_discovery_lcd.h"
+	"../../../Utilities/Fonts/fonts.h"
+	"../../../Utilities/Fonts/font24.c"
+	"../../../Utilities/Fonts/font20.c"
+	"../../../Utilities/Fonts/font16.c"
+	"../../../Utilities/Fonts/font12.c"
+	"../../../Utilities/Fonts/font8.c"
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_qspi.c
+	"stm32746g_discovery_qspi.h"
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sd.c
+	"stm32746g_discovery_sd.h"
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sdram.c
+	"stm32746g_discovery_sdram.h"
+
+1515437686 source:j:\embitz_work\aa\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_ts.c
+	"stm32746g_discovery_ts.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\commontables\arm_common_tables.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\cmsis\include\arm_common_tables.h
+	"arm_math.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\commontables\arm_const_structs.c
+	"arm_const_structs.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\cmsis\include\arm_const_structs.h
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_bitreversal2.s
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_cfft_f32.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_cfft_radix8_f32.c
+	"arm_math.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_rfft_fast_f32.c
+	"arm_math.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_rfft_fast_init_f32.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437692 source:j:\embitz_work\aa\kd8cec\src\fatfs\diskio.c
+	"diskio.h"
+	"ff_gen_drv.h"
+
+1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\diskio.h
+	"integer.h"
+
+1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\ff_gen_drv.h
+	"diskio.h"
+	"ff.h"
+
+1515437692 source:j:\embitz_work\aa\kd8cec\src\fatfs\drivers\sd_diskio.c
+	<string.h>
+	"ff_gen_drv.h"
+
+1519727118 source:j:\embitz_work\aa\kd8cec\src\fatfs\ff.c
+	"ff.h"
+	"diskio.h"
+	<stdarg.h>
+
+1515437692 source:j:\embitz_work\aa\kd8cec\src\fatfs\ff_gen_drv.c
+	"ff_gen_drv.h"
+
+1515437692 source:j:\embitz_work\aa\kd8cec\src\fatfs\option\syscall.c
+	<stdlib.h>
+	"../ff.h"
+
+1515437692 source:j:\embitz_work\aa\kd8cec\src\fatfs\option\unicode.c
+	"../ff.h"
+	"cc932.c"
+	"cc936.c"
+	"cc949.c"
+	"cc950.c"
+	"ccsbcs.c"
+
+1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\option\cc932.c
+	"../ff.h"
+
+1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\option\cc936.c
+	"../ff.h"
+
+1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\option\cc949.c
+	"../ff.h"
+
+1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\option\cc950.c
+	"../ff.h"
+
+1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\option\ccsbcs.c
+	"../ff.h"
+
+1557836557 source:j:\embitz_work\aa\kd8cec\src\main.c
+	"main.h"
+	<stdio.h>
+	<string.h>
+	"lcd.h"
+	"font.h"
+	"touch.h"
+	"ff.h"
+	"ff_gen_drv.h"
+	"sd_diskio.h"
+	"config.h"
+	"crash.h"
+	"si5351.h"
+	"dsp.h"
+	"mainwnd.h"
+	"aauart.h"
+	"custom_spi2.h"
+	"gen.h"
+	"keyboard.h"
+	"bitmaps/bitmaps.h"
+	"screenshot.h"
+	"DS3231.h"
+	"stm32f7xx.h"
+	"stm32f7xx_hal.h"
+	"stm32f7xx_hal_def.h"
+	"stm32746g_discovery.h"
+	"stm32f7xx_hal_adc.h"
+	"gpio_control.h"
+
+1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\drivers\sd_diskio.h
+
+1556784290 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\bitmaps.h
+
+1537719748 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal.c
+	"stm32f7xx_hal.h"
+	"main.h"
+
+1532274032 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_adc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_adc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_can.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cec.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cortex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_crc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_crc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cryp.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cryp_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dac.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dac_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dcmi.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dcmi_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma2d.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_eth.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_flash.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_flash_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_gpio.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hash.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hash_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hcd.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2c.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2c_ex.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2s.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_irda.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_iwdg.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_lptim.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_ltdc.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_nand.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_nor.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pcd.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pcd_ex.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pwr.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pwr_ex.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_qspi.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rcc.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rcc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rng.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rtc.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rtc_ex.c
+	"stm32f7xx_hal.h"
+
+1549185868 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sai.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sai_ex.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sd.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sdram.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_smartcard.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_smartcard_ex.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_spdifrx.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_spi.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sram.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_tim.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_tim_ex.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_uart.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_usart.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_wwdg.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_fmc.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_sdmmc.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_usb.c
+	"stm32f7xx_hal.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\sys\sdram_heap.c
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	"sdram_heap.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\sys\startup_stm32f746xx.s
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\sys\stm32f7xx_hal_msp.c
+	"main.h"
+
+1537719748 source:j:\embitz_work\aa\kd8cec\src\sys\stm32f7xx_it.c
+	"main.h"
+	"stm32f7xx_it.h"
+	"aauart.h"
+
+1515437688 j:\embitz_work\aa\kd8cec\src\inc\stm32f7xx_it.h
+	"main.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\sys\syscalls.c
+	<stdlib.h>
+	<stdio.h>
+	<reent.h>
+	<sys/stat.h>
+
+1549086540 source:j:\embitz_work\aa\kd8cec\src\sys\system_stm32f7xx.c
+	"stm32f7xx.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\usbd\usbd_conf.c
+	"main.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\usbd\usbd_core.c
+	"usbd_core.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\usbd\usbd_ctlreq.c
+	"usbd_ctlreq.h"
+	"usbd_ioreq.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\usbd\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_conf.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\usbd\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\usbd\usbd_msc.c
+	"usbd_msc.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_bot.c
+	"usbd_msc_bot.h"
+	"usbd_msc.h"
+	"usbd_msc_scsi.h"
+	"usbd_ioreq.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_data.c
+	"usbd_msc_data.h"
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_data.h
+	"usbd_conf.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\usbd\usbd_msc_scsi.c
+	"usbd_msc_bot.h"
+	"usbd_msc_scsi.h"
+	"usbd_msc.h"
+	"usbd_msc_data.h"
+
+1515437690 source:j:\embitz_work\aa\kd8cec\src\usbd\usbd_storage.c
+	"usbd_storage.h"
+	"stm32746g_discovery_sd.h"
+
+1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_storage.h
+	"usbd_msc.h"
+
+1557931844 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\mainwnd.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"font.h"
+	"touch.h"
+	"mainwnd.h"
+	"textbox.h"
+	"config.h"
+	"fftwnd.h"
+	"generator.h"
+	"measurement.h"
+	"oslcal.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"main.h"
+	"usbd_storage.h"
+	"ff_gen_drv.h"
+	"sd_diskio.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"aauart.h"
+	"build_timestamp.h"
+	"tdr.h"
+	"screenshot.h"
+	"spectr.h"
+	"stm32_ub_adc3_single.h"
+	"DS3231.h"
+	"guicontrol.h"
+	"aaprotocol.h"
+
+1549193756 j:\embitz_work\aa\kd8cec\src\analyzer\window\oslcal.h
+
+1558003906 j:\embitz_work\aa\kd8cec\src\inc\build_timestamp.h
+
+1553176419 j:\embitz_work\aa\kd8cec\src\analyzer\window\guicontrol.h
+	<ctype.h>
+	"main.h"
+	"bitmaps/bitmaps.h"
+
+1556784862 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\imgbuttons.h
+	<stdint.h>
+
+1548735692 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\imgbuttons.c
+
+1557997037 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\trackspectr.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"smith.h"
+	"textbox.h"
+	"generator.h"
+	"FreqCounter.h"
+	"bitmaps/bitmaps.h"
+
+1548743645 d:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\imgbuttons.h
+	<stdint.h>
+
+1549123902 d:\embitz_work\aa\kd8cec\src\analyzer\window\guicontrol.h
+	<ctype.h>
+	"main.h"
+	"bitmaps/bitmaps.h"
+
+1549125711 source:d:\embitz_work\aa\kd8cec\src\analyzer\window\trackspectr.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"smith.h"
+	"textbox.h"
+	"generator.h"
+	"FreqCounter.h"
+	"bitmaps/bitmaps.h"
+
+1557931587 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\measurelcr.c
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"dsp.h"
+	"gen.h"
+	"stm32f746xx.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"match.h"
+	"num_keypad.h"
+	"screenshot.h"
+	"smith.h"
+	"measurement.h"
+	"panfreq.h"
+	"bitmaps/bitmaps.h"
+
+1551150358 j:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\aaprotocol.h
+	<stdint.h>
+
+1553601541 source:j:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\minivnaemul.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"aauart.h"
+	"dsp.h"
+	"config.h"
+	"ctype.h"
+	"stdlib.h"
+	"gen.h"
+
+1553601068 source:j:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\aa600emul.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"aauart.h"
+	"dsp.h"
+	"config.h"
+	"ctype.h"
+	"stdlib.h"
+	"gen.h"
+
+1515515612 source:c:\work\kd8cec\src\analyzer\adc\stm32_ub_adc3_single.c
+	"stm32_ub_adc3_single.h"
+
+1472142942 c:\work\kd8cec\src\analyzer\adc\stm32_ub_adc3_single.h
+	"stm32_ub_system.h"
+
+1437992568 c:\work\kd8cec\src\analyzer\adc\stm32_ub_system.h
+	"stm32f7xx.h"
+	"stm32f7xx_hal.h"
+
+1532598522 c:\work\kd8cec\src\cmsis\device\st\stm32f7xx\include\stm32f7xx.h
+	"stm32f756xx.h"
+	"stm32f746xx.h"
+	"stm32f745xx.h"
+	"stm32f765xx.h"
+	"stm32f767xx.h"
+	"stm32f769xx.h"
+	"stm32f777xx.h"
+	"stm32f779xx.h"
+	"stm32f7xx_hal_conf.h"
+
+1515437686 c:\work\kd8cec\src\cmsis\device\st\stm32f7xx\include\stm32f746xx.h
+	"core_cm7.h"
+	"system_stm32f7xx.h"
+	<stdint.h>
+
+1515437686 c:\work\kd8cec\src\cmsis\include\core_cm7.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+	"core_cmSimd.h"
+
+1515437686 c:\work\kd8cec\src\cmsis\include\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437686 c:\work\kd8cec\src\cmsis\include\cmsis_gcc.h
+
+1515437686 c:\work\kd8cec\src\cmsis\include\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437686 c:\work\kd8cec\src\cmsis\include\core_cmsimd.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1515437686 c:\work\kd8cec\src\cmsis\device\st\stm32f7xx\include\system_stm32f7xx.h
+
+1532274031 c:\work\kd8cec\src\inc\stm32f7xx_hal_conf.h
+	<stdint.h>
+	"system_stm32f7xx.h"
+	"stm32f7xx_hal_rcc.h"
+	"stm32f7xx_hal_gpio.h"
+	"stm32f7xx_hal_dma.h"
+	"stm32f7xx_hal_cortex.h"
+	"stm32f7xx_hal_adc.h"
+	"stm32f7xx_hal_can.h"
+	"stm32f7xx_hal_cec.h"
+	"stm32f7xx_hal_crc.h"
+	"stm32f7xx_hal_cryp.h"
+	"stm32f7xx_hal_dma2d.h"
+	"stm32f7xx_hal_dac.h"
+	"stm32f7xx_hal_dcmi.h"
+	"stm32f7xx_hal_eth.h"
+	"stm32f7xx_hal_flash.h"
+	"stm32f7xx_hal_sram.h"
+	"stm32f7xx_hal_nor.h"
+	"stm32f7xx_hal_nand.h"
+	"stm32f7xx_hal_sdram.h"
+	"stm32f7xx_hal_hash.h"
+	"stm32f7xx_hal_i2c.h"
+	"stm32f7xx_hal_i2s.h"
+	"stm32f7xx_hal_iwdg.h"
+	"stm32f7xx_hal_lptim.h"
+	"stm32f7xx_hal_ltdc.h"
+	"stm32f7xx_hal_pwr.h"
+	"stm32f7xx_hal_qspi.h"
+	"stm32f7xx_hal_rng.h"
+	"stm32f7xx_hal_rtc.h"
+	"stm32f7xx_hal_sai.h"
+	"stm32f7xx_hal_sd.h"
+	"stm32f7xx_hal_spdifrx.h"
+	"stm32f7xx_hal_spi.h"
+	"stm32f7xx_hal_tim.h"
+	"stm32f7xx_hal_uart.h"
+	"stm32f7xx_hal_usart.h"
+	"stm32f7xx_hal_irda.h"
+	"stm32f7xx_hal_smartcard.h"
+	"stm32f7xx_hal_wwdg.h"
+	"stm32f7xx_hal_pcd.h"
+	"stm32f7xx_hal_hcd.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rcc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_rcc_ex.h"
+	"stm32f7xx_hal_rcc_ex.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_def.h
+	"stm32f7xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stdio.h>
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rcc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_gpio.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_gpio_ex.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_gpio_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dma_ex.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cortex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_adc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_adc_ex.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_adc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_can.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cec.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_crc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_crc_ex.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_crc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cryp.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_cryp_ex.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_cryp_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dma2d.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dac.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dac_ex.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dac_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dcmi.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_eth.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_flash.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_flash_ex.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_flash_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sram.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_fmc.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_nor.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_nand.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sdram.h
+	"stm32f7xx_ll_fmc.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hash.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_hash_ex.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hash_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2c.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_i2c_ex.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2c_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_i2s.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_iwdg.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_lptim.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_ltdc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_ltdc_ex.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_ltdc_ex.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_dsi.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_dsi.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pwr.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_pwr_ex.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pwr_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_qspi.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rng.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rtc.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_rtc_ex.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_rtc_ex.h
+	"stm32f7xx_hal_def.h"
+
+1549185477 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sai.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_sd.h
+	"stm32f7xx_ll_sdmmc.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_sdmmc.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_spdifrx.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_spi.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_tim.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_tim_ex.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_tim_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_uart.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_uart_ex.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_uart_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_usart.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_usart_ex.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_usart_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_irda.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_irda_ex.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_irda_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_smartcard.h
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_smartcard_ex.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_smartcard_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_wwdg.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pcd.h
+	"stm32f7xx_ll_usb.h"
+	"stm32f7xx_hal_pcd_ex.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_ll_usb.h
+	"stm32f7xx_hal_def.h"
+
+1515437687 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_pcd_ex.h
+	"stm32f7xx_hal_def.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal_hcd.h
+	"stm32f7xx_ll_usb.h"
+
+1515437686 c:\work\kd8cec\src\stm32f7xx_hal_driver\inc\stm32f7xx_hal.h
+	"stm32f7xx_hal_conf.h"
+
+1515592112 source:c:\work\kd8cec\src\analyzer\adc\stm32_ub_system.c
+	"stm32_ub_system.h"
+
+1551289168 source:c:\work\kd8cec\src\analyzer\config\config.c
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"gen.h"
+	<string.h>
+	<stdint.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"textbox.h"
+
+1551289460 c:\work\kd8cec\src\analyzer\config\config.h
+	<stdint.h>
+	<stdbool.h>
+	"LCD.h"
+
+1515437685 c:\work\kd8cec\src\bsp\components\common\lcd.h
+	<stdint.h>
+
+1515437690 c:\work\kd8cec\src\fatfs\ff.h
+	"integer.h"
+	"ffconf.h"
+
+1515437690 c:\work\kd8cec\src\fatfs\integer.h
+	<stdint.h>
+
+1537815692 c:\work\kd8cec\src\fatfs\ffconf.h
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery_sd.h"
+
+1515437685 c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sd.h
+	"stm32746g_discovery.h"
+
+1515437685 c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery.h
+	"stm32f7xx_hal.h"
+
+1515437686 c:\work\kd8cec\src\inc\crash.h
+	<stdio.h>
+
+1525353552 c:\work\kd8cec\src\analyzer\gen\gen.h
+	<stdint.h>
+
+1549123954 c:\work\kd8cec\src\analyzer\lcd\touch.h
+	"LCD.h"
+	"FreqCounter.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\lcd\lcd.h
+	<stdint.h>
+
+1537638509 c:\work\kd8cec\src\inc\freqcounter.h
+
+1516525580 c:\work\kd8cec\src\analyzer\lcd\font.h
+	<stdint.h>
+	"LCD.h"
+
+1548743747 c:\work\kd8cec\src\analyzer\lcd\textbox.h
+	<stdint.h>
+	"font.h"
+
+1551268709 source:c:\work\kd8cec\src\analyzer\dsp\dsp.c
+	<string.h>
+	<math.h>
+	<limits.h>
+	<complex.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_audio.h"
+	"arm_math.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"config.h"
+	"crash.h"
+
+1515437685 c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_audio.h
+	"../Components/wm8994/wm8994.h"
+	"stm32746g_discovery.h"
+
+1515437685 c:\work\kd8cec\src\bsp\components\wm8994\wm8994.h
+	"../Common/audio.h"
+
+1515437685 c:\work\kd8cec\src\bsp\components\common\audio.h
+	<stdint.h>
+
+1515437686 c:\work\kd8cec\src\cmsis\include\arm_math.h
+	"core_cm7.h"
+	"core_cm4.h"
+	"core_cm3.h"
+	"core_cm0.h"
+	"core_cm0plus.h"
+	"string.h"
+	"math.h"
+
+1549199324 c:\work\kd8cec\src\analyzer\dsp\dsp.h
+	<stdint.h>
+	<complex.h>
+	"stm32746g_discovery_audio.h"
+
+1549212696 c:\work\kd8cec\src\analyzer\osl\oslfile.h
+	<complex.h>
+	<stdint.h>
+
+1537782965 source:c:\work\kd8cec\src\analyzer\freqcounter.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdint.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32f7xx_hal_def.h"
+	"stm32f7xx_hal_tim.h"
+	"panvswr2.h"
+	"FreqCounter.h"
+	"main.h"
+
+1537115675 c:\work\kd8cec\src\analyzer\window\panvswr2.h
+
+1549021879 c:\work\kd8cec\src\inc\main.h
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_lcd.h"
+	"stm32746g_discovery_ts.h"
+	"stm32746g_discovery_audio.h"
+	"stm32746g_discovery_qspi.h"
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_msc.h"
+	"stm32_ub_adc3_single.h"
+	"FreqCounter.h"
+	"panvswr2.h"
+
+1515437685 c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_lcd.h
+	"../Components/rk043fn48h/rk043fn48h.h"
+	"stm32746g_discovery_sdram.h"
+	"stm32746g_discovery.h"
+
+1515437685 c:\work\kd8cec\src\bsp\components\rk043fn48h\rk043fn48h.h
+
+1515437685 c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sdram.h
+	"stm32f7xx_hal.h"
+
+1515437685 c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_ts.h
+	"stm32746g_discovery.h"
+	"../Components/ft5336/ft5336.h"
+
+1515437685 c:\work\kd8cec\src\bsp\components\ft5336\ft5336.h
+	"../Common/ts.h"
+
+1515437685 c:\work\kd8cec\src\bsp\components\common\ts.h
+	<stdint.h>
+
+1515437685 c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_qspi.h
+	"stm32f7xx_hal.h"
+	"../Components/n25q128a/n25q128a.h"
+
+1515437685 c:\work\kd8cec\src\bsp\components\n25q128a\n25q128a.h
+
+1515437688 c:\work\kd8cec\src\usbd\usbd_core.h
+	"usbd_conf.h"
+	"usbd_def.h"
+	"usbd_ioreq.h"
+	"usbd_ctlreq.h"
+
+1515437688 c:\work\kd8cec\src\usbd\usbd_conf.h
+	"stm32f7xx_hal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515437688 c:\work\kd8cec\src\usbd\usbd_def.h
+	"usbd_conf.h"
+
+1515437688 c:\work\kd8cec\src\usbd\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1515437688 c:\work\kd8cec\src\usbd\usbd_ctlreq.h
+	"usbd_def.h"
+
+1515437688 c:\work\kd8cec\src\usbd\usbd_desc.h
+	"usbd_def.h"
+
+1515437688 c:\work\kd8cec\src\usbd\usbd_msc.h
+	"usbd_msc_bot.h"
+	"usbd_msc_scsi.h"
+	"usbd_ioreq.h"
+
+1515437689 c:\work\kd8cec\src\usbd\usbd_msc_bot.h
+	"usbd_core.h"
+
+1515437689 c:\work\kd8cec\src\usbd\usbd_msc_scsi.h
+	"usbd_def.h"
+
+1506966400 source:c:\work\kd8cec\src\analyzer\gen\adf4350.c
+	<math.h>
+	"adf4350.h"
+	"si5351.h"
+	"custom_spi2.h"
+	"rational.h"
+	"stm32746g_discovery.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\gen\adf4350.h
+	<stdint.h>
+
+1506966400 c:\work\kd8cec\src\analyzer\gen\si5351.h
+	<stdint.h>
+	"config.h"
+
+1515437685 c:\work\kd8cec\src\bsp\stm32746g-discovery\custom_spi2.h
+	<stdint.h>
+
+1506966400 c:\work\kd8cec\src\analyzer\gen\rational.h
+	<stdint.h>
+
+1506966400 source:c:\work\kd8cec\src\analyzer\gen\adf4351.c
+	"stm32746g_discovery.h"
+	"adf4351.h"
+	<math.h>
+	"si5351.h"
+	"custom_spi2.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\gen\adf4351.h
+	<stdint.h>
+
+1549189916 source:c:\work\kd8cec\src\analyzer\gen\gen.c
+	"si5351.h"
+	"adf4350.h"
+	"adf4351.h"
+	"si5338a.h"
+	"gen.h"
+	"dsp.h"
+	"config.h"
+	"stm32746g_discovery_audio.h"
+	"crash.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\gen\si5338a.h
+	<stdint.h>
+
+1506966400 source:c:\work\kd8cec\src\analyzer\gen\rational.c
+	"rational.h"
+
+1506966400 source:c:\work\kd8cec\src\analyzer\gen\si5338a.c
+	"stm32746g_discovery.h"
+	"si5338a.h"
+	<math.h>
+
+1551068401 source:c:\work\kd8cec\src\analyzer\gen\si5351.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"si5351.h"
+	"config.h"
+	"rational.h"
+	"font.h"
+	"crash.h"
+	"ff.h"
+
+1548734393 source:c:\work\kd8cec\src\analyzer\lcd\bitmaps\bitmaps.c
+	"logo.h"
+	"mainimg.h"
+	"imgbuttons.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\lcd\bitmaps\logo.h
+
+1549899540 c:\work\kd8cec\src\analyzer\lcd\bitmaps\mainimg.h
+
+1549915023 c:\work\kd8cec\src\analyzer\lcd\bitmaps\imgbuttons.h
+	<stdint.h>
+
+1506966400 source:c:\work\kd8cec\src\analyzer\lcd\consbig.c
+	"consbig.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\lcd\consbig.h
+	<stdint.h>
+
+1516525554 source:c:\work\kd8cec\src\analyzer\lcd\font.c
+	"font.h"
+	"fran.h"
+	"franbig.h"
+	"consbig.h"
+	"sdigits.h"
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+
+1506966400 c:\work\kd8cec\src\analyzer\lcd\fran.h
+	<stdint.h>
+
+1506966400 c:\work\kd8cec\src\analyzer\lcd\franbig.h
+	<stdint.h>
+
+1506966400 c:\work\kd8cec\src\analyzer\lcd\sdigits.h
+	<stdint.h>
+
+1506966400 source:c:\work\kd8cec\src\analyzer\lcd\fran.c
+	"fran.h"
+
+1506966400 source:c:\work\kd8cec\src\analyzer\lcd\franbig.c
+	"franbig.h"
+
+1537172932 source:c:\work\kd8cec\src\analyzer\lcd\hit.c
+	"hit.h"
+	"config.h"
+	"FreqCounter.h"
+
+1537113831 c:\work\kd8cec\src\analyzer\lcd\hit.h
+	<stdint.h>
+	"LCD.h"
+	"main.h"
+
+1549190898 source:c:\work\kd8cec\src\analyzer\lcd\lcd.c
+	"LCD.h"
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_lcd.h"
+	"libnsbmp.h"
+	"crash.h"
+	<math.h>
+	"font.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\lcd\libnsbmp.h
+	<stdbool.h>
+	<stdint.h>
+	<stddef.h>
+
+1520506576 source:c:\work\kd8cec\src\analyzer\lcd\libnsbmp.c
+	<assert.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<libnsbmp.h>
+
+1520268524 source:c:\work\kd8cec\src\analyzer\lcd\lodepng.c
+	"lodepng.h"
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<lcd.h>
+
+1520246154 c:\work\kd8cec\src\analyzer\lcd\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1506966400 source:c:\work\kd8cec\src\analyzer\lcd\sdigits.c
+	"sdigits.h"
+
+1516525752 source:c:\work\kd8cec\src\analyzer\lcd\smith.c
+	"smith.h"
+	"LCD.h"
+	"font.h"
+	"config.h"
+	<math.h>
+	<complex.h>
+	<limits.h>
+
+1516304254 c:\work\kd8cec\src\analyzer\lcd\smith.h
+	<stdint.h>
+	<complex.h>
+	"lcd.h"
+
+1548743175 source:c:\work\kd8cec\src\analyzer\lcd\textbox.c
+	"textbox.h"
+	"LCD.h"
+	"touch.h"
+	"config.h"
+	"bitmaps/bitmaps.h"
+
+1549907062 c:\work\kd8cec\src\analyzer\lcd\bitmaps\bitmaps.h
+
+1549915719 source:c:\work\kd8cec\src\analyzer\lcd\touch.c
+	"touch.h"
+	"stm32746g_discovery_ts.h"
+	"stm32746g_discovery_lcd.h"
+	"lcd.h"
+	"config.h"
+
+1536694898 source:c:\work\kd8cec\src\analyzer\osl\match.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	"match.h"
+	"dsp.h"
+	"config.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\osl\match.h
+	<stdint.h>
+	<complex.h>
+
+1551288966 source:c:\work\kd8cec\src\analyzer\osl\oslfile.c
+	<math.h>
+	<float.h>
+	<string.h>
+	"oslfile.h"
+	"ff.h"
+	"crash.h"
+	"config.h"
+	"font.h"
+	"LCD.h"
+	"gen.h"
+	"dsp.h"
+
+1537598987 source:c:\work\kd8cec\src\analyzer\rtc\ds3231.c
+	"DS3231.h"
+
+1537544303 c:\work\kd8cec\src\analyzer\rtc\ds3231.h
+	<stdint.h>
+	"config.h"
+
+1551153575 source:c:\work\kd8cec\src\analyzer\uartcomm\aa600emul.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"aauart.h"
+	"dsp.h"
+	"config.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\uartcomm\aauart.h
+	<stdint.h>
+
+1551089793 source:c:\work\kd8cec\src\analyzer\uartcomm\aauart.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"main.h"
+	"stm32f7xx_hal_uart.h"
+	"config.h"
+	"aauart.h"
+	"fifo.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\uartcomm\fifo.h
+	<stdint.h>
+
+1506966400 source:c:\work\kd8cec\src\analyzer\uartcomm\fifo.c
+	"fifo.h"
+
+1551256854 source:c:\work\kd8cec\src\analyzer\uartcomm\minivnaemul.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"aauart.h"
+	"dsp.h"
+	"config.h"
+
+1537259510 source:c:\work\kd8cec\src\analyzer\window\fftwnd.c
+	<complex.h>
+	<stdint.h>
+	<math.h>
+	"arm_math.h"
+	<string.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_audio.h"
+	"stm32746g_discovery_lcd.h"
+	"fftwnd.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"crash.h"
+	"gen.h"
+	"dsp.h"
+	"ff.h"
+	"config.h"
+	"si5351.h"
+
+1523044476 c:\work\kd8cec\src\analyzer\window\fftwnd.h
+
+1538476082 source:c:\work\kd8cec\src\analyzer\window\generator.c
+	<stdint.h>
+	<stdio.h>
+	"LCD.h"
+	"dsp.h"
+	"font.h"
+	"touch.h"
+	"gen.h"
+	"config.h"
+	"hit.h"
+	"main.h"
+	"num_keypad.h"
+	"panfreq.h"
+	"generator.h"
+	"FreqCounter.h"
+
+1537264557 c:\work\kd8cec\src\analyzer\window\num_keypad.h
+	<stdint.h>
+
+1514623480 c:\work\kd8cec\src\analyzer\window\panfreq.h
+	<stdint.h>
+	<stdbool.h>
+	"panvswr2.h"
+
+1523729998 c:\work\kd8cec\src\analyzer\window\generator.h
+
+1537973673 source:c:\work\kd8cec\src\analyzer\window\keyboard.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"keyboard.h"
+	"textbox.h"
+
+1506966400 c:\work\kd8cec\src\analyzer\window\keyboard.h
+	<stdint.h>
+
+1551262323 source:c:\work\kd8cec\src\analyzer\window\mainwnd.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"font.h"
+	"touch.h"
+	"mainwnd.h"
+	"textbox.h"
+	"config.h"
+	"fftwnd.h"
+	"generator.h"
+	"measurement.h"
+	"oslcal.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"main.h"
+	"usbd_storage.h"
+	"ff_gen_drv.h"
+	"sd_diskio.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"aauart.h"
+	"build_timestamp.h"
+	"tdr.h"
+	"screenshot.h"
+	"spectr.h"
+	"stm32_ub_adc3_single.h"
+	"DS3231.h"
+	"guicontrol.h"
+	"aaprotocol.h"
+
+1538221912 c:\work\kd8cec\src\analyzer\window\mainwnd.h
+	<ctype.h>
+	"main.h"
+
+1532364666 c:\work\kd8cec\src\analyzer\window\measurement.h
+
+1549193755 c:\work\kd8cec\src\analyzer\window\oslcal.h
+
+1515437689 c:\work\kd8cec\src\usbd\usbd_storage.h
+	"usbd_msc.h"
+
+1515437690 c:\work\kd8cec\src\fatfs\ff_gen_drv.h
+	"diskio.h"
+	"ff.h"
+
+1515437690 c:\work\kd8cec\src\fatfs\diskio.h
+	"integer.h"
+
+1515437690 c:\work\kd8cec\src\fatfs\drivers\sd_diskio.h
+
+1551290870 c:\work\kd8cec\src\inc\build_timestamp.h
+
+1506966400 c:\work\kd8cec\src\analyzer\window\tdr.h
+
+1537890982 c:\work\kd8cec\src\analyzer\window\screenshot.h
+
+1522784142 c:\work\kd8cec\src\analyzer\window\spectr.h
+	<stdint.h>
+
+1551097446 c:\work\kd8cec\src\analyzer\window\guicontrol.h
+	<ctype.h>
+	"main.h"
+	"bitmaps/bitmaps.h"
+
+1551150356 c:\work\kd8cec\src\analyzer\uartcomm\aaprotocol.h
+	<stdint.h>
+
+1551286620 source:c:\work\kd8cec\src\analyzer\window\measurelcr.c
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"dsp.h"
+	"gen.h"
+	"stm32f746xx.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"match.h"
+	"num_keypad.h"
+	"screenshot.h"
+	"smith.h"
+	"measurement.h"
+	"panfreq.h"
+
+1538476082 source:c:\work\kd8cec\src\analyzer\window\measurement.c
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"dsp.h"
+	"gen.h"
+	"stm32f746xx.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"match.h"
+	"num_keypad.h"
+	"screenshot.h"
+	"smith.h"
+	"measurement.h"
+	"panfreq.h"
+
+1538209392 source:c:\work\kd8cec\src\analyzer\window\num_keypad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"num_keypad.h"
+	"textbox.h"
+	"mainwnd.h"
+
+1549193485 source:c:\work\kd8cec\src\analyzer\window\oslcal.c
+	<stdio.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"textbox.h"
+	"oslfile.h"
+
+1538666526 source:c:\work\kd8cec\src\analyzer\window\panfreq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<stdbool.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"num_keypad.h"
+	"textbox.h"
+	"config.h"
+	"panfreq.h"
+	"panvswr2.h"
+
+1549173187 source:c:\work\kd8cec\src\analyzer\window\panvswr2.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"smith.h"
+	"textbox.h"
+	"generator.h"
+	"FreqCounter.h"
+
+1538298952 source:c:\work\kd8cec\src\analyzer\window\screenshot.c
+	<stdint.h>
+	<stdio.h>
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"touch.h"
+	"ff.h"
+	"textbox.h"
+	"screenshot.h"
+	"crash.h"
+	"stm32746g_discovery_lcd.h"
+	"keyboard.h"
+	"lodepng.h"
+	"mainwnd.h"
+	"DS3231.h"
+	"sdram_heap.h"
+
+1515437686 c:\work\kd8cec\src\inc\sdram_heap.h
+
+1542199489 source:c:\work\kd8cec\src\analyzer\window\spectr.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	"arm_math.h"
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"textbox.h"
+	"spectr.h"
+	"fftwnd.h"
+
+1537904377 source:c:\work\kd8cec\src\analyzer\window\tdr.c
+	<stdint.h>
+	<math.h>
+	<complex.h>
+	"arm_math.h"
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"tdr.h"
+	"hit.h"
+
+1551257955 source:c:\work\kd8cec\src\analyzer\window\trackspectr.c
+	<stdint.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"LCD.h"
+	"touch.h"
+	"font.h"
+	"config.h"
+	"ff.h"
+	"crash.h"
+	"dsp.h"
+	"gen.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"screenshot.h"
+	"panvswr2.h"
+	"panfreq.h"
+	"smith.h"
+	"textbox.h"
+	"generator.h"
+	"FreqCounter.h"
+	"bitmaps/bitmaps.h"
+
+1515437685 source:c:\work\kd8cec\src\bsp\components\ft5336\ft5336.c
+	"ft5336.h"
+
+1515437685 source:c:\work\kd8cec\src\bsp\components\ov9655\ov9655.c
+	"ov9655.h"
+
+1515437685 c:\work\kd8cec\src\bsp\components\ov9655\ov9655.h
+	"../Common/camera.h"
+
+1515437685 c:\work\kd8cec\src\bsp\components\common\camera.h
+	<stdint.h>
+
+1515437685 source:c:\work\kd8cec\src\bsp\components\s5k5cag\s5k5cag.c
+	"s5k5cag.h"
+
+1515437685 c:\work\kd8cec\src\bsp\components\s5k5cag\s5k5cag.h
+	"../Common/camera.h"
+
+1515437685 source:c:\work\kd8cec\src\bsp\components\wm8994\wm8994.c
+	"wm8994.h"
+
+1515437685 source:c:\work\kd8cec\src\bsp\stm32746g-discovery\custom_spi2.c
+	"custom_spi2.h"
+	"stm32746g_discovery.h"
+
+1515437685 source:c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery.c
+	"stm32746g_discovery.h"
+
+1549184699 source:c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_audio.c
+	"stm32746g_discovery_audio.h"
+
+1515437685 source:c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_eeprom.c
+	"stm32746g_discovery_eeprom.h"
+
+1515437685 c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_eeprom.h
+	"stm32746g_discovery.h"
+
+1549078278 source:c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_lcd.c
+	<string.h>
+	"stm32746g_discovery_lcd.h"
+	"../../../Utilities/Fonts/fonts.h"
+	"../../../Utilities/Fonts/font24.c"
+	"../../../Utilities/Fonts/font20.c"
+	"../../../Utilities/Fonts/font16.c"
+	"../../../Utilities/Fonts/font12.c"
+	"../../../Utilities/Fonts/font8.c"
+
+1515437685 source:c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_qspi.c
+	"stm32746g_discovery_qspi.h"
+
+1515437685 source:c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sd.c
+	"stm32746g_discovery_sd.h"
+
+1515437685 source:c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_sdram.c
+	"stm32746g_discovery_sdram.h"
+
+1515437685 source:c:\work\kd8cec\src\bsp\stm32746g-discovery\stm32746g_discovery_ts.c
+	"stm32746g_discovery_ts.h"
+
+1515437686 source:c:\work\kd8cec\src\cmsis\dsp_lib\source\commontables\arm_common_tables.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437686 c:\work\kd8cec\src\cmsis\include\arm_common_tables.h
+	"arm_math.h"
+
+1515437686 source:c:\work\kd8cec\src\cmsis\dsp_lib\source\commontables\arm_const_structs.c
+	"arm_const_structs.h"
+
+1515437686 c:\work\kd8cec\src\cmsis\include\arm_const_structs.h
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437686 source:c:\work\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_bitreversal2.s
+
+1515437686 source:c:\work\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_cfft_f32.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437686 source:c:\work\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_cfft_radix8_f32.c
+	"arm_math.h"
+
+1515437686 source:c:\work\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_rfft_fast_f32.c
+	"arm_math.h"
+
+1515437686 source:c:\work\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_rfft_fast_init_f32.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1515437690 source:c:\work\kd8cec\src\fatfs\diskio.c
+	"diskio.h"
+	"ff_gen_drv.h"
+
+1515437690 source:c:\work\kd8cec\src\fatfs\drivers\sd_diskio.c
+	<string.h>
+	"ff_gen_drv.h"
+
+1519727117 source:c:\work\kd8cec\src\fatfs\ff.c
+	"ff.h"
+	"diskio.h"
+	<stdarg.h>
+
+1515437690 source:c:\work\kd8cec\src\fatfs\ff_gen_drv.c
+	"ff_gen_drv.h"
+
+1515437690 source:c:\work\kd8cec\src\fatfs\option\syscall.c
+	<stdlib.h>
+	"../ff.h"
+
+1515437690 source:c:\work\kd8cec\src\fatfs\option\unicode.c
+	"../ff.h"
+	"cc932.c"
+	"cc936.c"
+	"cc949.c"
+	"cc950.c"
+	"ccsbcs.c"
+
+1515437690 c:\work\kd8cec\src\fatfs\option\cc932.c
+	"../ff.h"
+
+1515437690 c:\work\kd8cec\src\fatfs\option\cc936.c
+	"../ff.h"
+
+1515437690 c:\work\kd8cec\src\fatfs\option\cc949.c
+	"../ff.h"
+
+1515437690 c:\work\kd8cec\src\fatfs\option\cc950.c
+	"../ff.h"
+
+1515437690 c:\work\kd8cec\src\fatfs\option\ccsbcs.c
+	"../ff.h"
+
+1549090974 source:c:\work\kd8cec\src\main.c
+	"main.h"
+	<stdio.h>
+	<string.h>
+	"lcd.h"
+	"font.h"
+	"touch.h"
+	"ff.h"
+	"ff_gen_drv.h"
+	"sd_diskio.h"
+	"config.h"
+	"crash.h"
+	"si5351.h"
+	"dsp.h"
+	"mainwnd.h"
+	"aauart.h"
+	"custom_spi2.h"
+	"gen.h"
+	"keyboard.h"
+	"bitmaps/bitmaps.h"
+	"screenshot.h"
+	"DS3231.h"
+	"stm32f7xx.h"
+	"stm32f7xx_hal.h"
+	"stm32f7xx_hal_def.h"
+	"stm32746g_discovery.h"
+	"stm32f7xx_hal_adc.h"
+
+1537719747 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal.c
+	"stm32f7xx_hal.h"
+	"main.h"
+
+1532274031 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_adc.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_adc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_can.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cec.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cortex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_crc.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_crc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cryp.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_cryp_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dac.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dac_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dcmi.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dcmi_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma2d.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_dma_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_eth.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_flash.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_flash_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_gpio.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hash.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hash_ex.c
+	"stm32f7xx_hal.h"
+
+1515437687 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_hcd.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2c.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2c_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_i2s.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_irda.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_iwdg.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_lptim.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_ltdc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_nand.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_nor.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pcd.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pcd_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pwr.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_pwr_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_qspi.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rcc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rcc_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rng.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rtc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_rtc_ex.c
+	"stm32f7xx_hal.h"
+
+1549185867 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sai.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sai_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sd.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sdram.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_smartcard.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_smartcard_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_spdifrx.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_spi.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_sram.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_tim.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_tim_ex.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_uart.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_usart.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_hal_wwdg.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_fmc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_sdmmc.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\stm32f7xx_hal_driver\src\stm32f7xx_ll_usb.c
+	"stm32f7xx_hal.h"
+
+1515437688 source:c:\work\kd8cec\src\sys\sdram_heap.c
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	"sdram_heap.h"
+
+1515437688 source:c:\work\kd8cec\src\sys\startup_stm32f746xx.s
+
+1515437688 source:c:\work\kd8cec\src\sys\stm32f7xx_hal_msp.c
+	"main.h"
+
+1537719747 source:c:\work\kd8cec\src\sys\stm32f7xx_it.c
+	"main.h"
+	"stm32f7xx_it.h"
+	"aauart.h"
+
+1515437686 c:\work\kd8cec\src\inc\stm32f7xx_it.h
+	"main.h"
+
+1515437688 source:c:\work\kd8cec\src\sys\syscalls.c
+	<stdlib.h>
+	<stdio.h>
+	<reent.h>
+	<sys/stat.h>
+
+1549086538 source:c:\work\kd8cec\src\sys\system_stm32f7xx.c
+	"stm32f7xx.h"
+
+1515437688 source:c:\work\kd8cec\src\usbd\usbd_conf.c
+	"main.h"
+
+1515437688 source:c:\work\kd8cec\src\usbd\usbd_core.c
+	"usbd_core.h"
+
+1515437688 source:c:\work\kd8cec\src\usbd\usbd_ctlreq.c
+	"usbd_ctlreq.h"
+	"usbd_ioreq.h"
+
+1515437688 source:c:\work\kd8cec\src\usbd\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_conf.h"
+
+1515437688 source:c:\work\kd8cec\src\usbd\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1515437688 source:c:\work\kd8cec\src\usbd\usbd_msc.c
+	"usbd_msc.h"
+
+1515437689 source:c:\work\kd8cec\src\usbd\usbd_msc_bot.c
+	"usbd_msc_bot.h"
+	"usbd_msc.h"
+	"usbd_msc_scsi.h"
+	"usbd_ioreq.h"
+
+1515437689 source:c:\work\kd8cec\src\usbd\usbd_msc_data.c
+	"usbd_msc_data.h"
+
+1515437689 c:\work\kd8cec\src\usbd\usbd_msc_data.h
+	"usbd_conf.h"
+
+1515437689 source:c:\work\kd8cec\src\usbd\usbd_msc_scsi.c
+	"usbd_msc_bot.h"
+	"usbd_msc_scsi.h"
+	"usbd_msc.h"
+	"usbd_msc_data.h"
+
+1515437689 source:c:\work\kd8cec\src\usbd\usbd_storage.c
+	"usbd_storage.h"
+	"stm32746g_discovery_sd.h"
+
+1557408519 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bdigits.c
+	"bdigits.h"
+
+1551368928 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bdigits.h
+	<stdint.h>
+
+1551378472 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\menufont.c
+	"menufont.h"
+
+1551376523 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\menufont.h
+	<stdint.h>
+
+1557895159 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\weaksignal.c
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"dsp.h"
+	"gen.h"
+	"stm32f746xx.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"match.h"
+	"num_keypad.h"
+	"screenshot.h"
+	"panfreq.h"
+	"bitmaps/bitmaps.h"
+	"DS3231.h"
+	"si5351_hs.h"
+	"JTEncode.h"
+	"keyboard.h"
+	"gpio_control.h"
+	"audioirq.h"
+	"ff.h"
+	"crash.h"
+
+1551883560 source:j:\embitz_work\aa\kd8cec\src\analyzer\digital\crc14.c
+	"crc14.h"
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1551883560 j:\embitz_work\aa\kd8cec\src\analyzer\digital\crc14.h
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1554342870 source:j:\embitz_work\aa\kd8cec\src\analyzer\digital\encode_rs_int.c
+	<string.h>
+	"JTEncode.h"
+	"int.h"
+	"rs_common.h"
+	"config.h"
+
+1557837091 j:\embitz_work\aa\kd8cec\src\analyzer\digital\jtencode.h
+	"int.h"
+	"rs_common.h"
+	<stdint.h>
+	<avr/pgmspace.h>
+
+1551883560 j:\embitz_work\aa\kd8cec\src\analyzer\digital\int.h
+	<stdint.h>
+
+1551883560 j:\embitz_work\aa\kd8cec\src\analyzer\digital\rs_common.h
+	"int.h"
+
+1551886716 source:j:\embitz_work\aa\kd8cec\src\analyzer\digital\init_rs_int.c
+	<string.h>
+	<stdlib.h>
+	"JTEncode.h"
+	"rs_common.h"
+
+1557841397 source:j:\embitz_work\aa\kd8cec\src\analyzer\digital\jtencode.c
+	"JTEncode.h"
+	"crc14.h"
+	"generator.h"
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	"config.h"
+	<avr/pgmspace.h>
+
+1551885682 j:\embitz_work\aa\kd8cec\src\analyzer\digital\generator.h
+	<stdint.h>
+	"bintohextable.h"
+	<avr/pgmspace.h>
+
+1551886236 j:\embitz_work\aa\kd8cec\src\analyzer\digital\bintohextable.h
+
+1555065846 source:j:\embitz_work\aa\kd8cec\src\analyzer\gen\si5351_hs.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"si5351_hs.h"
+	"config.h"
+
+1554466587 j:\embitz_work\aa\kd8cec\src\analyzer\gen\si5351_hs.h
+
+1555298484 source:j:\embitz_work\aa\kd8cec\src\analyzer\gpio\gpio_control.c
+	"gpio_control.h"
+
+1555301720 j:\embitz_work\aa\kd8cec\src\analyzer\gpio\gpio_control.h
+	<stdio.h>
+	<stdint.h>
+	"stm32f7xx.h"
+	"stm32f7xx_hal.h"
+	"stm32f7xx_hal_def.h"
+	"stm32746g_discovery.h"
+	"stm32f7xx_hal_adc.h"
+
+1557415440 source:j:\embitz_work\aa\kd8cec\src\analyzer\dsp\audioirq.c
+	<string.h>
+	<math.h>
+	<limits.h>
+	<complex.h>
+	"stm32f7xx_hal.h"
+	"stm32746g_discovery.h"
+	"stm32746g_discovery_audio.h"
+	"config.h"
+	"crash.h"
+	"audioirq.h"
+
+1557415431 j:\embitz_work\aa\kd8cec\src\analyzer\dsp\audioirq.h
+	<stdint.h>
+	<complex.h>
+	"stm32746g_discovery_audio.h"
+
+1557414863 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\audiodsp.c
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"dsp.h"
+	"gen.h"
+	"stm32f746xx.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"match.h"
+	"num_keypad.h"
+	"screenshot.h"
+	"bitmaps/bitmaps.h"
+	<stdint.h>
+	"arm_math.h"
+	"audioirq.h"
+	"flt_lpf.h"
+	"flt_hpf.h"
+	"flt_bpf_50.h"
+	"flt_bpf_100.h"
+	"flt_bpf_150.h"
+	"flt_stop_50.h"
+	"flt_windows.h"
+	"ff.h"
+	"crash.h"
+	"arm_const_structs.h"
+
+1556679973 j:\embitz_work\aa\kd8cec\src\analyzer\fftfilters\flt_lpf.h
+
+1556679962 j:\embitz_work\aa\kd8cec\src\analyzer\fftfilters\flt_hpf.h
+
+1556679944 j:\embitz_work\aa\kd8cec\src\analyzer\fftfilters\flt_bpf_50.h
+
+1556679923 j:\embitz_work\aa\kd8cec\src\analyzer\fftfilters\flt_bpf_100.h
+
+1556679936 j:\embitz_work\aa\kd8cec\src\analyzer\fftfilters\flt_bpf_150.h
+
+1556679989 j:\embitz_work\aa\kd8cec\src\analyzer\fftfilters\flt_stop_50.h
+
+1556545327 j:\embitz_work\aa\kd8cec\src\analyzer\fftfilters\flt_windows.h
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\complexmathfunctions\arm_cmplx_mag_f32.c
+	"arm_math.h"
+
+1436343778 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\filteringfunctions\arm_biquad_cascade_df2t_f32.c
+	"arm_math.h"
+
+1436343778 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\filteringfunctions\arm_biquad_cascade_df2t_init_f32.c
+	"arm_math.h"
+
+1436343778 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\filteringfunctions\arm_fir_f32.c
+	"arm_math.h"
+
+1436343778 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\filteringfunctions\arm_fir_fast_q15.c
+	"arm_math.h"
+
+1436343778 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\filteringfunctions\arm_fir_fast_q31.c
+	"arm_math.h"
+
+1436343778 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\filteringfunctions\arm_fir_init_f32.c
+	"arm_math.h"
+
+1436343778 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\filteringfunctions\arm_fir_init_q15.c
+	"arm_math.h"
+
+1436343778 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\filteringfunctions\arm_fir_init_q31.c
+	"arm_math.h"
+
+1436343778 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\filteringfunctions\arm_fir_init_q7.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_copy_f32.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_copy_q15.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_copy_q31.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_copy_q7.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_fill_f32.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_fill_q15.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_fill_q31.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_fill_q7.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_float_to_q15.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_float_to_q31.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_float_to_q7.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_q15_to_float.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_q15_to_q31.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_q15_to_q7.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_q31_to_float.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_q31_to_q15.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_q31_to_q7.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_q7_to_float.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_q7_to_q15.c
+	"arm_math.h"
+
+1436343776 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\supportfunctions\arm_q7_to_q31.c
+	"arm_math.h"
+
+1436343774 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_bitreversal.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1436343774 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_cfft_radix4_f32.c
+	"arm_math.h"
+
+1436343774 source:j:\embitz_work\aa\kd8cec\src\cmsis\dsp_lib\source\transformfunctions\arm_cfft_radix4_init_f32.c
+	"arm_math.h"
+	"arm_common_tables.h"
+
+1557845360 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\recandplay.c
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<complex.h>
+	<string.h>
+	"config.h"
+	"LCD.h"
+	"font.h"
+	"touch.h"
+	"hit.h"
+	"dsp.h"
+	"gen.h"
+	"stm32f746xx.h"
+	"oslfile.h"
+	"stm32746g_discovery_lcd.h"
+	"match.h"
+	"num_keypad.h"
+	"screenshot.h"
+	"panfreq.h"
+	"bitmaps/bitmaps.h"
+	"DS3231.h"
+	"si5351_hs.h"
+	"JTEncode.h"
+	"keyboard.h"
+	"gpio_control.h"
+	"audioirq.h"
+	"ff.h"
+	"crash.h"
+
