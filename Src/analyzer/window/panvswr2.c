@@ -1781,7 +1781,7 @@ void Tune_SWR_Proc(void){// ----------------------------------------------------
 
     GPIO_PinState OUTGpio;
     char str[20];
-    float vswrf, vswLogf;//,vswrf_old, SwrDiff;
+    float vswrf, vswLogf, vswrf_old, SwrDiff;
     uint32_t width, vswLog=0, Timer;
     uint32_t color1, vswr10, vsw_old, k=0;
     TEXTBOX_CTX_t SWR1_ctx;
@@ -1856,12 +1856,12 @@ void Tune_SWR_Proc(void){// ----------------------------------------------------
             k=0;
             DSP_Measure(fxkHzs*1000, 1, 1, CFG_GetParam(CFG_PARAM_MEAS_NSCANS));
             vswrf = DSP_CalcVSWR(DSP_MeasuredZ());
-            //SwrDiff=vswrf_old-vswrf;
-            //if(SwrDiff<0)SwrDiff=-SwrDiff;
+            SwrDiff=vswrf_old-vswrf;
+            if(SwrDiff<0)SwrDiff=-SwrDiff;
 
-            //if((SwrDiff>0.01*vswrf)){// Difference more than 3 %
-            {
-                //vswrf_old=vswrf;
+            if((SwrDiff>0.01*vswrf)){// Difference more than 3 %
+                vswrf_old=vswrf;
+
                 vswr10=10.0*vswrf;
 
                 if(SWRLimit==2){
@@ -1901,7 +1901,7 @@ void Tune_SWR_Proc(void){// ----------------------------------------------------
                 LCD_FillRect(LCD_MakePoint(width+1, 116), LCD_MakePoint(479,205), BackGrColor);
             }
         }
-        Sleep(100);//5
+        Sleep(1);//5
     }
 }
 
