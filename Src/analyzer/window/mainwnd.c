@@ -543,7 +543,7 @@ int counter11;
                     Reload_Proc();
                     break;
                 case BTN_USB :
-                    RecPlayAudio_Proc();
+                    USBD_Proc();
                     break;
 
                 case BTN_LC :
@@ -555,8 +555,7 @@ int counter11;
                     MenuSettings();
                     break;
                 case BTN_DSP :
-                    //FFTWND_Proc();
-                    AudioDSP_Proc();
+                    FFTWND_Proc();
                     break;
 
                 case BTN_TRACKER :
