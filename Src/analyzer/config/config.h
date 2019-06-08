@@ -19,7 +19,7 @@
 
 #include "LCD.h"
 #define AAVERSION "3.0d"        //Must be 4 characters
-#define AAVERSION_CECV "0.71"   //Must be 4 characters
+#define AAVERSION_CECV "1.0A"   //Must be 4 characters
 
 
 //#define BAND_FMIN 500000ul    //BAND_FMIN must be multiple 100000
