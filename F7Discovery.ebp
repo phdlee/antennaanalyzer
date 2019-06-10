@@ -383,13 +383,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Src\analyzer\uartcomm\fifo.h" />
-		<Unit filename="Src\analyzer\uartcomm\minivnaemul.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Src\analyzer\window\audiodsp.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Src\analyzer\window\audiodsp.h" />
 		<Unit filename="Src\analyzer\window\fftwnd.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -430,9 +423,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Src\analyzer\window\panvswr2.h" />
-		<Unit filename="Src\analyzer\window\recandplay.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="Src\analyzer\window\screenshot.c">
 			<Option compilerVar="CC" />
 		</Unit>
