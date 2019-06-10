@@ -38,6 +38,7 @@ static const TCHAR *SNDIR = "/aa/snapshot";
 static uint32_t oldest = 0xFFFFFFFFul;
 static uint32_t numfiles = 0;
 
+uint8_t __attribute__((section (".user_sdram"))) __attribute__((used)) bmpFileBufferTMP[SCREENSHOT_FILE_SIZE];  //for prevent error, buffer
 uint8_t __attribute__((section (".user_sdram"))) __attribute__((used)) bmpFileBuffer[SCREENSHOT_FILE_SIZE];
 
 static const uint8_t bmp_hdr[] =

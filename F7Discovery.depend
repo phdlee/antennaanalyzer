@@ -3244,7 +3244,7 @@
 	"font.h"
 	"textbox.h"
 
-1557845189 j:\embitz_work\aa\kd8cec\src\analyzer\config\config.h
+1559977042 j:\embitz_work\aa\kd8cec\src\analyzer\config\config.h
 	<stdint.h>
 	<stdbool.h>
 	"LCD.h"
@@ -3500,7 +3500,7 @@
 
 1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\logo.h
 
-1557408597 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\mainimg.h
+1559976976 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\mainimg.h
 
 1506966400 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\consbig.c
 	"consbig.h"
@@ -3628,7 +3628,7 @@
 	<stdint.h>
 	<complex.h>
 
-1555065131 source:j:\embitz_work\aa\kd8cec\src\analyzer\osl\oslfile.c
+1559187277 source:j:\embitz_work\aa\kd8cec\src\analyzer\osl\oslfile.c
 	<math.h>
 	<float.h>
 	<string.h>
@@ -3648,7 +3648,7 @@
 	<stdint.h>
 	"config.h"
 
-1551315693 source:j:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\aauart.c
+1559187124 source:j:\embitz_work\aa\kd8cec\src\analyzer\uartcomm\aauart.c
 	<stdio.h>
 	<string.h>
 	<stdint.h>
@@ -3731,7 +3731,7 @@
 1506966400 j:\embitz_work\aa\kd8cec\src\analyzer\window\keyboard.h
 	<stdint.h>
 
-1557921044 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\measurement.c
+1559186829 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\measurement.c
 	<stdint.h>
 	<stdio.h>
 	<math.h>
@@ -3801,7 +3801,7 @@
 	"panfreq.h"
 	"panvswr2.h"
 
-1557931565 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\panvswr2.c
+1559193124 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\panvswr2.c
 	<stdint.h>
 	<stdio.h>
 	<string.h>
@@ -3831,7 +3831,7 @@
 	"bitmaps/bitmaps.h"
 	"bitmaps/bitmaps.h"
 
-1555074204 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\screenshot.c
+1559986895 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\screenshot.c
 	<stdint.h>
 	<stdio.h>
 	<stdint.h>
@@ -4047,7 +4047,7 @@
 1515437692 j:\embitz_work\aa\kd8cec\src\fatfs\option\ccsbcs.c
 	"../ff.h"
 
-1557836557 source:j:\embitz_work\aa\kd8cec\src\main.c
+1559186231 source:j:\embitz_work\aa\kd8cec\src\main.c
 	"main.h"
 	<stdio.h>
 	<string.h>
@@ -4335,7 +4335,7 @@
 1515437690 j:\embitz_work\aa\kd8cec\src\usbd\usbd_storage.h
 	"usbd_msc.h"
 
-1557931844 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\mainwnd.c
+1559977512 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\mainwnd.c
 	<stdio.h>
 	<string.h>
 	<ctype.h>
@@ -4369,7 +4369,7 @@
 
 1549193756 j:\embitz_work\aa\kd8cec\src\analyzer\window\oslcal.h
 
-1558003906 j:\embitz_work\aa\kd8cec\src\inc\build_timestamp.h
+1559988210 j:\embitz_work\aa\kd8cec\src\inc\build_timestamp.h
 
 1553176419 j:\embitz_work\aa\kd8cec\src\analyzer\window\guicontrol.h
 	<ctype.h>
@@ -4381,7 +4381,7 @@
 
 1548735692 source:j:\embitz_work\aa\kd8cec\src\analyzer\lcd\bitmaps\imgbuttons.c
 
-1557997037 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\trackspectr.c
+1559186571 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\trackspectr.c
 	<stdint.h>
 	<stdio.h>
 	<string.h>
@@ -4445,7 +4445,7 @@
 	"FreqCounter.h"
 	"bitmaps/bitmaps.h"
 
-1557931587 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\measurelcr.c
+1559186499 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\measurelcr.c
 	<stdint.h>
 	<stdio.h>
 	<math.h>
@@ -6041,7 +6041,7 @@
 1551376523 j:\embitz_work\aa\kd8cec\src\analyzer\lcd\menufont.h
 	<stdint.h>
 
-1557895159 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\weaksignal.c
+1559978661 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\weaksignal.c
 	<stdint.h>
 	<stdio.h>
 	<math.h>
@@ -6107,7 +6107,7 @@
 	"JTEncode.h"
 	"rs_common.h"
 
-1557841397 source:j:\embitz_work\aa\kd8cec\src\analyzer\digital\jtencode.c
+1559187449 source:j:\embitz_work\aa\kd8cec\src\analyzer\digital\jtencode.c
 	"JTEncode.h"
 	"crc14.h"
 	"generator.h"
@@ -6166,7 +6166,7 @@
 	<complex.h>
 	"stm32746g_discovery_audio.h"
 
-1557414863 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\audiodsp.c
+1559186909 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\audiodsp.c
 	<stdint.h>
 	<stdio.h>
 	<math.h>
@@ -6315,7 +6315,7 @@
 	"arm_math.h"
 	"arm_common_tables.h"
 
-1557845360 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\recandplay.c
+1559186768 source:j:\embitz_work\aa\kd8cec\src\analyzer\window\recandplay.c
 	<stdint.h>
 	<stdio.h>
 	<math.h>
